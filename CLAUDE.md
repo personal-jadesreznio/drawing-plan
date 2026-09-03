@@ -11,6 +11,7 @@ Leer `00-CONTEXTO.md`. Contiene las reglas del proyecto y **tienen prioridad sob
 - `00-CONTEXTO.md` — reglas, materiales, roadmap, referencias. Cambia poco.
 - `01-BITACORA.md` — registro de sesiones y backlog. **Se actualiza cada sesión.**
 - `02-BIBLIA.md` — historia, personajes, mundo. Se actualiza en sesiones de escritura.
+- `trofeos/` — foto de cada entregable, `NNN-AAAA-MM-DD-slug.jpg`. **Se agrega una por sesión.**
 
 ## Skill
 
@@ -18,7 +19,7 @@ Leer `00-CONTEXTO.md`. Contiene las reglas del proyecto y **tienen prioridad sob
 
 ## Al cerrar una sesión
 
-Escribir la entrada nueva **arriba** del registro en `01-BITACORA.md`, actualizar el bloque de ESTADO ACTUAL, y commitear con mensaje `sesión NNN: <título>`.
+Escribir la entrada nueva **arriba** del registro en `01-BITACORA.md` (con el campo *Concepto trabajado* completo), actualizar el bloque de ESTADO ACTUAL, guardar la foto del entregable en `trofeos/`, y commitear todo junto con mensaje `sesión NNN: <título>`.
 
 ## Recordatorios
 

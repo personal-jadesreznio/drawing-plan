@@ -150,7 +150,7 @@ El tipo es independiente del tamaño (XS/M/L). Una sesión W en XS son 10 minuto
 - Nada de borrar y rehacer más de **2 veces**. La tercera queda como está.
 - Todo ejercicio tiene **timer**. Cuando suena, se termina.
 - El dibujo feo terminado le gana al dibujo perfecto abandonado.
-- **Carpeta de trofeos:** foto de cada entregable, sin excepción. Es el combustible.
+- **Carpeta de trofeos:** foto de cada entregable, sin excepción. Va a `trofeos/` en el repo. Es el combustible.
 
 ---
 
@@ -237,7 +237,7 @@ Decisión tomada: **consolidar bases en papel, después pasar a digital.**
 
 **Fuente de verdad: el repo** → `github.com/personal-jadesreznio/drawing-plan` (público)
 
-Claude no recuerda archivos entre conversaciones y **no puede escribir en el repo**. El flujo:
+Claude no recuerda archivos entre conversaciones. **En Claude Code escribe y commitea directo; desde el celular no puede**, y ahí el flujo es:
 
 1. Claude **lee** los archivos por fetch de las URLs raw:
    - `https://raw.githubusercontent.com/personal-jadesreznio/drawing-plan/main/00-CONTEXTO.md`
@@ -255,11 +255,13 @@ Claude no recuerda archivos entre conversaciones y **no puede escribir en el rep
 ## 12. Cómo arrancar una sesión
 
 Frase gatillo: **"dame una sesión"**. Claude entonces:
-1. Lee `01-BITACORA.md` (última fecha, hueco, fase, backlog).
+1. Lee `01-BITACORA.md`: última fecha y hueco, qué conceptos se vienen practicando y con qué frecuencia, fase y estado del cómic, backlog.
 2. Pregunta tiempo y energía → sale el tamaño (XS/M/L) y el tipo (D/W/DW).
 3. Entrega la sesión: máximo 3 ítems, un entregable.
 4. Al cierre, devuelve el bloque de bitácora listo para pegar.
 
-**Carpeta de trofeos:** álbum "Trofeos" en Fotos del celular. Foto de cada entregable, sin excepción, incluso los feos. Es el único registro de progreso que importa.
+**Carpeta de trofeos:** `trofeos/` en el repo, con el nombre `NNN-AAAA-MM-DD-slug.jpg`. Foto de cada entregable, sin excepción, incluso los feos. Es el único registro de progreso que importa.
+
+Sacar la foto con el celular y subirla desde github.com (*Add file → Upload files*); en Claude Code la guarda y commitea Claude. El álbum de Fotos del celular sirve como paso intermedio, pero **el repo es el registro**: es lo único que Claude puede leer en la sesión siguiente.
 
 **Advertencia registrada:** armar y refinar el sistema es procrastinación de alta calidad. Si Jad pide retocar el setup en vez de dibujar dos veces seguidas, Claude lo marca y propone una sesión XS en su lugar.

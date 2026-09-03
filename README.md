@@ -9,15 +9,16 @@ Sistema de aprendizaje de dibujo y producción de cómic. Fuente de verdad del p
 | `00-CONTEXTO.md` | Reglas, materiales, formatos de sesión, roadmap, referencias | Rara |
 | `01-BITACORA.md` | Registro de sesiones + backlog | **Cada sesión** |
 | `02-BIBLIA.md` | Historia, personajes, mundo, sistema de poderes | Cada sesión de escritura |
+| `trofeos/` | Foto de cada entregable | **Cada sesión** |
 | `.claude/skills/sesion-dibujo/` | Skill que genera las sesiones | Rara |
 
 ## Cómo se usa
 
 1. Decirle a Claude **"dame una sesión"**.
 2. Claude lee los `.md` de este repo por fetch a las URLs raw.
-3. Claude pregunta tiempo y energía, y entrega la sesión.
-4. Al cerrar, devuelve el bloque de bitácora listo para pegar.
-5. Commitear el cambio en `01-BITACORA.md`.
+3. Claude mira el historial: cuándo fue la última, qué se viene practicando y cómo va el cómic.
+4. Pregunta tiempo y energía, y entrega la sesión.
+5. Al cerrar: entrada en `01-BITACORA.md` + foto del entregable en `trofeos/`.
 
 Desde el celular se puede editar cualquier `.md` directo en la web de GitHub, sin cliente de git.
 
