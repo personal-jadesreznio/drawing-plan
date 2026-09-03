@@ -2,7 +2,7 @@
 
 > Archivo de reglas y preferencias. Es la fuente de verdad sobre cómo se diseñan las sesiones.
 > Cambia poco. Si algo acá deja de ser cierto, se edita.
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-03
 
 ---
 
@@ -35,20 +35,29 @@
 - Goma Maped Mini SoftGrip.
 
 **Tinta**
-- **Copic Multiliner** negro (punta fina) — entintado.
+- **Copic Multiliner** negro (punta fina) — entintado y detalle.
+- **Brush pen Da Vinci**, tinta al agua, punta media-gruesa — trazo con carácter, masas y línea variable. Ojo: tinta al agua = **no es a prueba de agua**, hay que probar si se corre debajo de los Copics (alcohol) antes de usarlo para entintar una página final.
 
 **Color**
-- **Copic Sketch, set básico de 36** (.Too) — comprado en Japón.
+- **Copic Sketch, set básico de 36** (.Too) — comprado en Japón. Incluye el **100 Black** ✅ (spot blacks y áreas grandes resueltos).
+
+**Papel**
+- **Sketchbook A5 chico** — bocetado diario, papel barato para no tenerle miedo a la hoja.
+- **Cuaderno A4, 120 g** — trabajos más grandes y todo lo que lleve marcador.
 
 **Reglas**
 - **Curve Set** de 3 curvas francesas (SR-10).
+- **Regla recta** para marcos de viñeta.
 
 **Faltantes detectados**
-- [ ] **Papel.** No hay sketchbook en la foto. Es lo más urgente: necesito un cuaderno de bocetos barato (para no tenerle miedo a la hoja) y hojas gruesas/marker paper para los Copics — en papel común los Copics traspasan y se corren.
-- [ ] **Brush pen** (Pentel Pocket Brush o Kuretake). Prioridad alta: las referencias clave dependen del pincel y el Multiliner solo no llega a ese trazo.
-- [ ] Verificar si el set de Copics incluye el **100 Black** para rellenar áreas grandes. Si no, conseguir un marcador negro ancho.
-- [ ] Regla recta (30 cm) para marcos de viñeta.
+- [x] ~~Papel~~ — resuelto: sketchbook A5 + cuaderno A4 de 120 g.
+- [x] ~~Brush pen~~ — resuelto: Da Vinci de tinta al agua.
+- [x] ~~Verificar el Copic 100 Black~~ — confirmado, está en el set.
+- [x] ~~Regla recta~~ — comprada.
+- [ ] **Marker paper o papel específico para Copics.** Los 120 g del A4 aguantan bastante más que el papel común, pero no son papel de marcador: es probable que igual traspase y que el color quede sucio. Verificarlo en `B-02` antes de arrancar cualquier página a Copics. No bloquea nada de grafito ni de tinta.
 - [ ] _(Opcional, más adelante)_ Escuadra o plantilla de elipses.
+
+> **Nada de lo que viene en Fase 1 está bloqueado por materiales.**
 
 ---
 

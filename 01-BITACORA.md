@@ -13,10 +13,11 @@
 - **Concepto más reciente:** —
 - **Próximo entregable de fase:** Hoja de "dónde estoy hoy" (línea base)
 - **Biblia:** creada, vacía. Primera sesión de escritura pendiente (`W-01`)
+- **Materiales:** completos para Fase 1. Papel (A5 + A4 de 120 g), brush pen, regla recta y Copic 100 Black ✅ — actualizado 2026-09-03
 - **Pendientes abiertos:**
-  - [ ] **Comprar papel** (sketchbook barato + hojas gruesas o marker paper para Copics) — bloquea varias sesiones
-  - [ ] Comprar regla recta de 30 cm
-  - [ ] Volcar los fragmentos de historia en un solo lugar
+  - [ ] Volcar los fragmentos de historia en un solo lugar (`W-01`) — es lo único que se puede hacer hoy sin dibujar
+  - [ ] Probar si el brush pen al agua se corre bajo los Copics, y si los 120 g aguantan el marcador (va dentro de `B-02`)
+  - [ ] _(opcional)_ Marker paper, solo si `B-02` confirma que el A4 no rinde
 
 ---
 
@@ -26,7 +27,7 @@ Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la e
 
 **Fase 0**
 - `B-01` **Línea base.** Dibujar 4 cosas sin instrucción (una cara, una mano, un objeto de la casa, un personaje de memoria). Sin borrar. Es la foto del "antes". _[XS/M]_
-- `B-02` **Calibración de materiales.** Probar cada herramienta 5 min: portaminas, Copics, iPad. Una hoja de muestras. Decidir cuál es el material por defecto. _[M]_
+- `B-02` **Calibración de materiales.** Probar cada herramienta 5 min: portaminas, brush pen, Copics, iPad. Una hoja de muestras. Incluir el test de traspaso: brush pen al agua debajo de Copic, y Copic sobre el A4 de 120 g. Decidir cuál es el material por defecto. _[M]_
 
 **Fase 1 — bloque gráfico (nuevo, va primero)**
 - `B-10` **Ver como Mignola.** Tomar 3 viñetas de Hellboy y redibujar SOLO las manchas negras, ignorando la línea. Entender dónde decide tapar. _[XS/M]_
