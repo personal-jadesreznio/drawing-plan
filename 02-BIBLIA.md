@@ -82,7 +82,7 @@ Marcas:
 |---|---|---|
 | Arranca | **Cínico** | **Inocente** |
 | Organización | **Séquito del Ocaso** | **Candidato de la Iglesia del Alba** |
-| Su ruta | Pierde al mentor y hereda al chico | La más traumática. Lo quiebra |
+| Su ruta | Pierde al mentor y hereda al pequeño | La más traumática. Lo quiebra |
 | Cómo cambia | **De golpe**, con el sacrificio del mentor | **De a poco**, se va quebrando |
 | Termina | Salvando a su hermano por amor | Queriendo asesinar al dios |
 | Parte hacia la torre | Primero (a los 10 años) | Un año después |
@@ -91,8 +91,8 @@ Marcas:
 
 ### Hermano del medio — _[nombre]_
 - **Punto de partida:** totalmente cínico. Séquito del Ocaso.
-- **Su travesía:** viaja con una **figura mentora** que lo va ablandando y con **el chico**, más joven e inocente que ellos. En algún punto el mentor **se sacrifica para salvar al resto**, y él queda a cargo.
-- **Su vuelta:** cuidar al chico lo **obliga** a ser gentil. El cambio es **de golpe**, disparado por el sacrificio.
+- **Su travesía:** viaja con una **figura mentora** que lo va ablandando y con **el pequeño**, más joven e inocente que ellos. En algún punto el mentor **se sacrifica para salvar al resto**, y él queda a cargo.
+- **Su vuelta:** cuidar al pequeño lo **obliga** a ser gentil. El cambio es **de golpe**, disparado por el sacrificio.
 - **Qué quiere (al final):** impedir que su hermano mate al dios y caiga en un nuevo ciclo.
 - **Qué necesita:** _[vacío]_
 - **Su acto:** mata al dios él mismo, no por odio ni por poder sino por amor a su hermano. Primero en la historia de la torre en tomar el trono con sentimientos puros.
@@ -113,11 +113,13 @@ Marcas:
 
 ### El mentor — _[nombre]_
 - Va en el equipo del **hermano del medio**. Lo va ablandando durante el viaje.
-- **Se sacrifica para salvar al resto.** Esa muerte es el evento que fuerza al cínico a hacerse cargo del chico.
+- **Se sacrifica para salvar al resto.** Esa muerte es el evento que fuerza al cínico a hacerse cargo del pequeño.
 
-### El chico — _[nombre]_
+### El pequeño — _[nombre]_
 - Va en el mismo equipo. **Más joven que los hermanos y más inocente** — pero no un nene: tuvo que ser apto para la expedición.
 - Al morir el mentor queda a cargo del hermano del medio. Es el vehículo de su ablandamiento.
+
+> Nota: llamarlo **el pequeño** y no "el chico", para no confundirlo con el hermano menor.
 
 ### El dios actual — _[nombre]_
 - **Quién es:** _[por decidir]_ — **el hermano mayor** o **el compañero del padre / héroe de infancia**. Es la decisión más pesada abierta.
@@ -131,6 +133,16 @@ Marcas:
 
 ### El dios original
 - Justo, omnisciente y omnipotente fuera de la torre. No intervenía salvo cada tanto. Advirtió al rey y no se defendió.
+
+### La traición — _[por ubicar]_
+
+Uno o dos escuderos **matan al candidato de su propio equipo** para quedarse con el trono, dejando al protagonista solo. El candidato asesinado sería **el más prometedor en años**: poderes magicos fortísimos y expertise — justamente por eso lo liquidan a mitad de camino, en la primera oportunidad que tienen, en vez de enfrentarlo arriba.
+
+Consecuencia: el protagonista sobreviviente **se reagrupa con otro equipo en el camino** (distinto al de su hermano), y por ahí entran otros personajes: gente con destinos parecidos que quedó con la party incompleta. Es la regla de las expediciones funcionando como mecanismo de elenco.
+
+⚠️ **Por decidir en qué equipo pasa:**
+- **A)** En el del **medio** (recomendada por mecánica): él es escudero, su equipo tiene un candidato aparte. Y se encadena con lo que ya existe — matan al candidato → el mentor se sacrifica por los que quedan → el medio queda con el pequeño → se reagrupan con otro equipo.
+- **B)** En el del **menor**: obliga a que el menor sea escudero y no candidato, y hay que redefinir quién es el candidato de la Iglesia.
 
 ### El boss final — candidato rival
 - Miembro de otro equipo que quiere el trono para sí. Obstaculiza al hermano del medio antes del clímax. **Existe porque el dios no se va a defender:** la última pelea física tiene que ser contra otro, no contra el objetivo.
@@ -157,6 +169,10 @@ Marcas:
 
 - **Dónde y cuándo:** 🤔 mundo de fantasía con una **torre que llega al cielo**. Meses de construcción, meses de ascenso. El trono está arriba de todo.
 - **Cómo funcionan las expediciones:** se manda a la torre un equipo con **un candidato a dios**, elegido por el reino, y sus acompañantes tienen que estar de acuerdo con la elección. Si el candidato muere, la misión es un fracaso: los guardianes vuelven o se acoplan a otro equipo con candidato vivo.
+- **Composición del equipo:** ✅ 1 candidato + 2–3 escuderos. _[el número exacto, a revisar]_
+- **Frecuencia:** ✅ se manda **un equipo por año**.
+
+> Consecuencia de la frecuencia: si sale un equipo por año durante siglos, la torre está **sembrada de restos**. La imagen del ascenso entre cadáveres deja de ser un recurso y pasa a ser el estado normal del lugar.
 - **Las dos organizaciones:** opuestas en ideología y filosofía, pero trabajan juntas para derrocar al dios.
 - **Tres detalles concretos y raros:** _[vacío]_
 - **Qué NO existe en este mundo:** _[vacío]_
@@ -185,9 +201,9 @@ El que toma el trono sin ser legítimo enloquece, no puede bajar ni morir, y hac
 
 **No van al mismo tiempo.** El equipo del **hermano del medio** parte primero (él tenía 10 años); el del **menor** sale un año después. Las historias se muestran en paralelo aunque ocurran desfasadas.
 
-⚠️ **Conflicto a resolver:** el medio **parte** primero, pero es el que **llega** segundo al trono (es quien interrumpe a su hermano). O el menor lo pasa en el camino — plausible, porque su ruta es la dura y podría ser también la rápida — o hay que mover las fechas de partida. _[por decidir]_
+✅ **Resuelto:** el medio parte primero pero **se va atrasando con contratiempos**. El menor sale un año después, **apurado**, y termina pasándolo. Por eso el menor llega primero al trono y el medio llega justo a tiempo para interrumpirlo.
 
-Consecuencia si el menor pasa al medio: **los restos que el medio va encontrando pueden incluir a gente de la expedición de su hermano menor**, sin saber si él está entre ellos. El misterio central y el drama familiar usan la misma imagen.
+Consecuencia: **los restos que el medio va encontrando pueden incluir a gente de la expedición de su hermano menor**, sin saber si él está entre ellos. El misterio central y el drama familiar usan la misma imagen.
 
 > Ritmo de los arcos ✅: el medio se ablanda **de golpe** (el sacrificio del mentor); el menor se quiebra **de a poco**. Así los arcos no se sienten mecánicos.
 
@@ -235,6 +251,7 @@ Consecuencia si el menor pasa al medio: **los restos que el medio va encontrando
 | ¿Por qué a los candidatos se les prohíbe usar artefactos del Ocaso? | Al presentar las organizaciones | Al revelar que se forjan con almas | 🤔 |
 | ¿Por qué la Iglesia, eligiendo siempre puros, fracasa siempre? | Al presentar el método de selección | En el clímax: el viaje destruye la pureza que selecciona | 🤔 |
 | ¿Qué le pasó a la expedición del otro hermano? | Cuando empieza a encontrar restos conocidos | _[por decidir]_ | 🤔 |
+| ¿Por qué los escuderos traicionaron a su candidato? | Al presentarlos como equipo | Cuando lo matan: querían el trono | 🤔 |
 
 ## 9. DECISIONES CERRADAS ✅
 
@@ -252,5 +269,9 @@ Consecuencia si el menor pasa al medio: **los restos que el medio va encontrando
 - **Ritmos distintos:** el medio cambia de golpe, el menor de a poco.
 - **El del medio es del Séquito del Ocaso; el menor es el candidato de la Iglesia del Alba.**
 - **Las expediciones son sucesivas**, no simultáneas: primero el equipo del medio, después el del menor.
-- **El mentor se sacrifica para salvar al resto**, y eso fuerza al del medio a hacerse cargo del chico.
-- **El mentor y el chico van en el equipo del hermano del medio.**
+- **El mentor se sacrifica para salvar al resto**, y eso fuerza al del medio a hacerse cargo del pequeño.
+- **El mentor y el pequeño van en el equipo del hermano del medio.**
+- **Equipos de 1 candidato + 2–3 escuderos**, uno por año.
+- **El medio parte primero pero se atrasa; el menor sale un año después, apurado, y lo pasa.**
+- **Hay una traición interna:** escuderos que matan a su propio candidato para quedarse el trono.
+- **El protagonista que queda solo se reagrupa con otro equipo**, y así entra el resto del elenco.
