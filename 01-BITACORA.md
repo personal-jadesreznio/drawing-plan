@@ -21,6 +21,9 @@
   - [ ] ¿El dios actual es el hermano mayor o el compañero del padre?
   - [ ] ¿Cómo se entera el hermano menor del ciclo?
   - [ ] ¿Quién narra?
+  - [ ] ¿El mentor y el chico van en el equipo del medio o en el del menor?
+  - [ ] ¿El hermano menor es escudero o candidato de su equipo?
+  - [ ] Confirmar o descartar la lectura temática de la Iglesia (pureza de origen vs. pureza construida)
   - [ ] ¿Quién sabe del ciclo dentro de las organizaciones?
   - [ ] Final 1 o Final 2
   - [ ] De qué se trata en realidad la historia (el tema) — la contesta Jad, `W-03`
@@ -73,10 +76,11 @@ Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la e
 - **Tipo:** W (solo escritura)
 - **Días desde la anterior:** 3
 - **Concepto trabajado:** Volcado de fragmentos; identificación del registro emocional propio; estructura de trama base
+- **Hecho (2ª parte):** Se definieron los **arcos cruzados** de los dos hermanos (inocente→vengativo, cínico→amoroso), su pertenencia a organizaciones opuestas (Iglesia / Ocaso), las expediciones sucesivas en vez de simultáneas, y dos personajes nuevos: el mentor y el chico. De ahí salió una lectura temática fuerte: la Iglesia elige pureza de origen y el viaje la destruye, mientras el que llega limpio viene del culto.
 - **Hecho:** Se volcaron las referencias emocionales (Vinland Saga, Pandora Hearts, GL de Geoff Johns, Civil War) y se destilaron **cuatro hilos** que se repiten en todas: el enemigo que no era el enemigo, el clímax como renuncia, la revelación que reescribe lo anterior, y el gesto por encima del discurso. Después Jad volcó la trama que ya tenía armada: el mito de origen de la torre, el ciclo de dioses usurpadores, el clímax del kill robado, los dos finales candidatos y las dos organizaciones. Todo se ordenó y se volcó a `02-BIBLIA.md`, que pasó de vacía a tener secciones 1 a 9 con contenido.
 - **Entregable:** `02-BIBLIA.md` con la trama base cargada. Sesión W: el trofeo es el commit, no una foto.
 - **Cómo se sintió:** —
-- **Notas para la próxima:** La trama estaba mucho más armada de lo que Jad creía y **ya ejecuta sola los cuatro hilos de su propio gusto** — vale la pena que lo tenga presente cuando dude. Quedan seis decisiones abiertas anotadas en ESTADO ACTUAL; ninguna es urgente. Jad dijo que tiene más material sin volcar. El carril de dibujo sigue en cero: la próxima debería ser `B-01` (línea base) para que la Fase 0 cierre.
+- **Notas para la próxima:** Jad sigue teniendo material sin volcar y el ritmo de la sesión fue bueno; conviene retomar por las tres decisiones nuevas antes de abrir temas nuevos. La trama estaba mucho más armada de lo que Jad creía y **ya ejecuta sola los cuatro hilos de su propio gusto** — vale la pena que lo tenga presente cuando dude. Quedan seis decisiones abiertas anotadas en ESTADO ACTUAL; ninguna es urgente. Jad dijo que tiene más material sin volcar. El carril de dibujo sigue en cero: la próxima debería ser `B-01` (línea base) para que la Fase 0 cierre.
 
 ---
 
