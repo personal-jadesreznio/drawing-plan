@@ -64,7 +64,8 @@ Marcas:
 - **El límite:** ✅ El dios no puede salir del trono, no puede provocar su propia muerte, y sus poderes no tienen efecto dentro de la torre. De ahí el ciclo: enloquece, hace miserable al pueblo de afuera para provocar una revolución, y espera que alguien suba a reemplazarlo.
 - **Quién puede y quién no:** ✅ Los **candidatos a dios** nacen elegidos, con conexión a la arcana y capacidad de usar magia. Los elige la Iglesia del Alba. Los **escuderos** no tienen magia propia: usan artefactos forjados por los herreros del Ocaso.
 - **Cómo lo ve la sociedad:** 🤔 El dios es un tirano a derrocar. Las dos organizaciones, opuestas en filosofía, colaboran para lograrlo.
-- **Regla que existe para romperse:** los candidatos tienen **prohibido** usar artefactos del Ocaso — es sacrilegio, por el origen de las almas.
+- **Regla que existe para romperse:** los candidatos tienen **prohibido** usar artefactos del Ocaso — es sacrilegio, por el origen de las almas. En espejo, un escudero no debería poder usar la arcana.
+- **Grimorios:** 🤔 un candidato deja un **grimorio**. El traidor principal usa el del candidato que asesinó, junto con su propio artefacto — las dos magias a la vez. _[cómo funciona exactamente, por definir]_
 
 > **Pregunta abierta:** ¿quién sabe del ciclo? Si la Iglesia elige candidatos puros y el trono solo acepta intención pura, puede llevar siglos haciendo lo correcto y fallando — o puede saberlo. Son dos historias distintas. _[por decidir]_
 
@@ -103,10 +104,10 @@ Marcas:
 
 ### Hermano menor — _[nombre]_
 - **Punto de partida:** inocente. **Candidato a dios** elegido por la Iglesia del Alba, nacido con conexión a la arcana.
-- **Su travesía:** la ruta más traumática. Se va quebrando **de a poco**.
+- **Su travesía:** la ruta más traumática. Se va quebrando **de a poco**. Arranca liderando con confianza; su decisión provoca la emboscada donde mueren dos de sus escuderos. Después rearma party con desconocidos.
 - **Qué quiere (al final):** venganza. La justicia le pesa más que la misión.
 - **Qué necesita:** _[vacío]_
-- **La herida:** el dios le quitó al hermano mayor y al padre, y arruinó a su pueblo. La expedición termina de romperlo.
+- **La herida:** el dios le quitó al hermano mayor y al padre, y arruinó a su pueblo. Pero la herida que de verdad lo rompe es **la culpa**: no se la hicieron, la provocó él.
 - **Su contradicción:** el odio que lo trajo hasta acá es exactamente lo que lo destruiría si llegara al trono.
 - **Cómo se ve — nota de diseño:** _[vacío]_
 - **Silueta:** _[pendiente de dibujo]_
@@ -134,18 +135,29 @@ Marcas:
 ### El dios original
 - Justo, omnisciente y omnipotente fuera de la torre. No intervenía salvo cada tanto. Advirtió al rey y no se defendió.
 
-### La traición — _[por ubicar]_
+### La traición ✅ — backstory de un secundario
 
-Uno o dos escuderos **matan al candidato de su propio equipo** para quedarse con el trono, dejando al protagonista solo. El candidato asesinado sería **el más prometedor en años**: poderes magicos fortísimos y expertise — justamente por eso lo liquidan a mitad de camino, en la primera oportunidad que tienen, en vez de enfrentarlo arriba.
+**No le pasa a ninguno de los hermanos.** Es el pasado de uno de los escuderos que después se suma a la party del hermano menor.
 
-Consecuencia: el protagonista sobreviviente **se reagrupa con otro equipo en el camino** (distinto al de su hermano), y por ahí entran otros personajes: gente con destinos parecidos que quedó con la party incompleta. Es la regla de las expediciones funcionando como mecanismo de elenco.
+Dos escuderos **mataron al candidato de su propio equipo** para quedarse con el trono. El candidato asesinado era **el más prometedor en años**: poderes mágicos fortísimos y expertise — justamente por eso lo liquidaron a mitad de camino, en la primera oportunidad, en vez de enfrentarlo arriba. El escudero traicionado sobrevivió y quedó sin party.
 
-⚠️ **Por decidir en qué equipo pasa:**
-- **A)** En el del **medio** (recomendada por mecánica): él es escudero, su equipo tiene un candidato aparte. Y se encadena con lo que ya existe — matan al candidato → el mentor se sacrifica por los que quedan → el medio queda con el pequeño → se reagrupan con otro equipo.
-- **B)** En el del **menor**: obliga a que el menor sea escudero y no candidato, y hay que redefinir quién es el candidato de la Iglesia.
+### La emboscada — la culpa del hermano menor ✅
 
-### El boss final — candidato rival
-- Miembro de otro equipo que quiere el trono para sí. Obstaculiza al hermano del medio antes del clímax. **Existe porque el dios no se va a defender:** la última pelea física tiene que ser contra otro, no contra el objetivo.
+El menor arranca **inocente y confiado, liderando a sus escuderos**. Por una decisión suya el equipo cae en una **emboscada** y mueren dos. Escapa con el único escudero que queda vivo.
+
+> Esta es la herida que lo va quebrando **de a poco**: no le hicieron algo, él lo provocó. La culpa, no el agravio.
+
+Después los dos se integran con **dos escuderos sin equipo**, sobrevivientes de exterminios de sus propias partys. Uno de ellos es **el traicionado**. La party queda otra vez de cuatro, pero armada con desconocidos.
+
+> La regla de reagrupamiento de las expediciones funcionando como mecanismo de elenco: los personajes nuevos llegan ya con pérdida encima, sin que haya que justificarlos.
+
+### Los dos traidores — el enfrentamiento final ✅
+
+Son los mismos de la backstory de la traición: también llegaron hasta arriba. **Existen porque el dios no se va a defender** — la última pelea física tiene que ser contra otro.
+
+- **Traidor principal.** Mala gente de verdad. Lleva **su artefacto del Ocaso más el grimorio del candidato que asesinó**.
+  > Su combo se justifica solo: usa **las dos magias a la vez**, que es precisamente lo que las dos organizaciones prohíben. Es imparable porque rompió el tabú que todos los demás respetan. _[el combo concreto, a diseñar]_
+- **Traidor secundario.** Un tipo cualquiera que quedó atrapado siguiéndolo. Lleno de culpa, pero del lado equivocado.
 
 ### Guardias / ángeles
 - Los que estaban en la sala cuando el rey usurpó el trono. Cubiertos a la fuerza por máscaras y armadura. Mecanismo de defensa del trono.
@@ -169,7 +181,7 @@ Consecuencia: el protagonista sobreviviente **se reagrupa con otro equipo en el 
 
 - **Dónde y cuándo:** 🤔 mundo de fantasía con una **torre que llega al cielo**. Meses de construcción, meses de ascenso. El trono está arriba de todo.
 - **Cómo funcionan las expediciones:** se manda a la torre un equipo con **un candidato a dios**, elegido por el reino, y sus acompañantes tienen que estar de acuerdo con la elección. Si el candidato muere, la misión es un fracaso: los guardianes vuelven o se acoplan a otro equipo con candidato vivo.
-- **Composición del equipo:** ✅ 1 candidato + 2–3 escuderos. _[el número exacto, a revisar]_
+- **Composición del equipo:** ✅ **1 candidato + 3 escuderos.** (Se desprende de la emboscada del menor: mueren 2, queda 1.)
 - **Frecuencia:** ✅ se manda **un equipo por año**.
 
 > Consecuencia de la frecuencia: si sale un equipo por año durante siglos, la torre está **sembrada de restos**. La imagen del ascenso entre cadáveres deja de ser un recurso y pasa a ser el estado normal del lugar.
@@ -207,16 +219,29 @@ Consecuencia: **los restos que el medio va encontrando pueden incluir a gente de
 
 > Ritmo de los arcos ✅: el medio se ablanda **de golpe** (el sacrificio del mentor); el menor se quiebra **de a poco**. Así los arcos no se sienten mecánicos.
 
-### El último ciclo — el clímax
+### El último ciclo — el clímax ✅
 
-1. El **hermano del medio** llega primero, movido por la venganza.
-2. Descubre que el dios actual es _[el hermano mayor / el compañero del padre — por decidir]_.
-3. Lo obstaculiza un **candidato rival** de otro equipo que quiere el trono. Es el boss final, porque el dios no se va a defender.
-4. El hermano del medio gana y corre a matar al dios con una espada.
-5. **Panel:** la espada atraviesa al dios. Sangre. Se lee como si lo hubiera hecho él.
-6. **Zoom out:** fue el **hermano menor**.
-7. El vengativo, confundido, le reclama que le robó la venganza. El menor: **"lo hice por vos."**
-8. El narrador señala que por primera vez en la historia de la torre alguien tomó el trono con sentimientos puros. El ciclo se rompe y el trono lo acepta como rey legítimo.
+1. El **hermano menor** llega primero, movido por la venganza. Descubre que el dios actual es _[el hermano mayor / el compañero del padre — por decidir]_.
+2. **Llegan las dos partys** de los hermanos al mismo espacio.
+3. **Se parte en dos frentes:** el **traidor principal** contra el hermano del **medio** y su party; el **traidor secundario** contra el hermano **menor** y la suya.
+4. El **hermano del medio cae gravemente herido**. Se da a entender que muere.
+5. El menor lo ve. **Ira** — un evento traumático más en la lista. Deja a su party peleando contra el secundario y va por el principal.
+6. **Mata al traidor principal**, con apoyo.
+7. La party derrota al **traidor secundario**. **El traicionado exige justicia y elige no matarlo:** calabozo de por vida y le quitan el arma.
+   > Es la misma renuncia del final, en chiquito, en un secundario. Y tiene precio: **las almas del artefacto solo se liberan cuando muere el portador** — perdonarle la vida las deja atrapadas.
+8. Terminada la batalla, el **menor** va a matar al dios con una espada.
+9. **Panel:** la espada atraviesa al dios. Sangre. Se lee como si lo hubiera hecho él.
+10. **Zoom out:** fue el **hermano del medio**, que estaba vivo.
+11. El menor, confundido, le reclama que le robó la venganza. El medio: **"lo hice por vos."**
+12. Al tomar el trono, **el medio se cura de su herida** — permanente o temporalmente.
+13. El narrador señala que por primera vez en la historia de la torre alguien tomó el trono con sentimientos puros. El ciclo se rompe y el trono lo acepta como rey legítimo.
+
+> ⚠️ **Problema a resolver — la pureza del motivo.** Si el medio se salva al tomar el trono, se puede leer como supervivencia y se cae el beat central. Tres salidas:
+> - **A)** No sabe que lo va a curar. Actúa creyendo que muere igual. Hay que mostrarlo **antes**, no explicarlo después.
+> - **B)** Lo sabe y lo hace igual, y el trono lo acepta. Cambia el tema: la pureza no es ausencia de interés propio.
+> - **C)** No se está muriendo. Parece que muere, y la cura se revela después como regalo.
+>
+> A y C protegen el beat original. B lo cambia por otro, también válido. _[decisión de Jad]_
 
 ### Los dos finales candidatos
 
@@ -251,7 +276,9 @@ Consecuencia: **los restos que el medio va encontrando pueden incluir a gente de
 | ¿Por qué a los candidatos se les prohíbe usar artefactos del Ocaso? | Al presentar las organizaciones | Al revelar que se forjan con almas | 🤔 |
 | ¿Por qué la Iglesia, eligiendo siempre puros, fracasa siempre? | Al presentar el método de selección | En el clímax: el viaje destruye la pureza que selecciona | 🤔 |
 | ¿Qué le pasó a la expedición del otro hermano? | Cuando empieza a encontrar restos conocidos | _[por decidir]_ | 🤔 |
-| ¿Por qué los escuderos traicionaron a su candidato? | Al presentarlos como equipo | Cuando lo matan: querían el trono | 🤔 |
+| ¿Por qué los escuderos traicionaron a su candidato? | En la backstory del traicionado | En el reencuentro arriba | 🤔 |
+| ¿Cómo hace el traidor principal para ser tan fuerte? | Al verlo pelear | Usa artefacto **y** grimorio: las dos magias prohibidas a la vez | 🤔 |
+| ¿El hermano del medio sigue vivo? | Cuando cae herido | En el zoom out del panel de la espada | ✅ |
 
 ## 9. DECISIONES CERRADAS ✅
 
@@ -271,7 +298,12 @@ Consecuencia: **los restos que el medio va encontrando pueden incluir a gente de
 - **Las expediciones son sucesivas**, no simultáneas: primero el equipo del medio, después el del menor.
 - **El mentor se sacrifica para salvar al resto**, y eso fuerza al del medio a hacerse cargo del pequeño.
 - **El mentor y el pequeño van en el equipo del hermano del medio.**
-- **Equipos de 1 candidato + 2–3 escuderos**, uno por año.
+- **Equipos de 1 candidato + 3 escuderos**, uno por año.
+- **La traición es backstory de un secundario**, no de los hermanos.
+- **La herida del menor es su propia culpa:** lidera, provoca una emboscada, mueren dos de los suyos.
+- **Los dos traidores son el enfrentamiento final**, en dos frentes simultáneos.
+- **El traicionado perdona la vida al traidor secundario** — y con eso deja atrapadas las almas de su artefacto.
+- **El medio se cura al tomar el trono.**
 - **El medio parte primero pero se atrasa; el menor sale un año después, apurado, y lo pasa.**
 - **Hay una traición interna:** escuderos que matan a su propio candidato para quedarse el trono.
 - **El protagonista que queda solo se reagrupa con otro equipo**, y así entra el resto del elenco.
