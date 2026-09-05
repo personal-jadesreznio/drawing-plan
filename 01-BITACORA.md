@@ -8,16 +8,22 @@
 ## ESTADO ACTUAL
 
 - **Fase:** 0 — Setup y calibración
-- **Sesiones completadas:** 0
-- **Última sesión:** 2026-09-02 (setup)
-- **Concepto más reciente:** —
-- **Próximo entregable de fase:** Hoja de "dónde estoy hoy" (línea base)
-- **Biblia:** creada, vacía. Primera sesión de escritura pendiente (`W-01`)
+- **Sesiones completadas:** 1
+- **Última sesión:** 2026-09-05 (`W-01`, tipo W, tamaño M)
+- **Concepto más reciente:** Volcado de fragmentos y estructura de trama; los cuatro hilos del registro emocional
+- **Próximo entregable de fase:** Hoja de "dónde estoy hoy" (línea base) — sigue pendiente, es carril de dibujo
+- **Biblia:** con contenido real. Trama base, mito de origen, ciclo, clímax y sistema de poderes volcados. Falta el tema, los nombres y los detalles de mundo
 - **Materiales:** completos para Fase 1. Papel (A5 + A4 de 120 g), brush pen, regla recta y Copic 100 Black ✅ — actualizado 2026-09-03
 - **Pendientes abiertos:**
-  - [ ] Volcar los fragmentos de historia en un solo lugar (`W-01`) — es lo único que se puede hacer hoy sin dibujar
   - [ ] Probar si el brush pen al agua se corre bajo los Copics, y si los 120 g aguantan el marcador (va dentro de `B-02`)
   - [ ] _(opcional)_ Marker paper, solo si `B-02` confirma que el A4 no rinde
+- **Decisiones de historia abiertas** (no urgentes, ver `02-BIBLIA.md`):
+  - [ ] ¿El dios actual es el hermano mayor o el compañero del padre?
+  - [ ] ¿Cómo se entera el hermano menor del ciclo?
+  - [ ] ¿Quién narra?
+  - [ ] ¿Quién sabe del ciclo dentro de las organizaciones?
+  - [ ] Final 1 o Final 2
+  - [ ] De qué se trata en realidad la historia (el tema) — la contesta Jad, `W-03`
 
 ---
 
@@ -42,8 +48,8 @@ Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la e
 - `B-07` **Primera tira de 4 viñetas.** Chiste simple, stick figures permitidos. _[M]_
 
 **Carril de escritura (W) — corre en paralelo desde el día uno**
-- `W-01` **Volcar fragmentos.** Contarme por chat todos los pedazos sueltos, sin ordenar ni juzgar. Yo los ordeno y busco qué se repite. _[XS]_
-- `W-02` **El sistema de poderes.** La regla y, sobre todo, **el costo**. _[M]_
+- ~~`W-01` **Volcar fragmentos.**~~ ✅ hecho en la sesión 001.
+- `W-02` **El sistema de poderes.** La regla y, sobre todo, **el costo**. _[M]_ — ⚠️ en buena parte ya resuelto en la 001 (trono + artefactos). Reformular hacia los huecos: quién sabe del ciclo, y los límites de la arcana.
 - `W-03` **Protagonista: deseo vs. necesidad.** Preguntas dirigidas. Sale la herida y la contradicción. _[M]_
 - `W-04` **Nombres.** Definir la lógica del mundo primero, después los nombres salen solos. _[XS]_
 - `W-05` **Antagonista espejo.** En qué tiene razón. _[M]_
@@ -61,6 +67,18 @@ Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la e
 ---
 
 ## REGISTRO DE SESIONES
+
+### Sesión 001 — 2026-09-05 — Volcar los fragmentos
+- **Tamaño:** M
+- **Tipo:** W (solo escritura)
+- **Días desde la anterior:** 3
+- **Concepto trabajado:** Volcado de fragmentos; identificación del registro emocional propio; estructura de trama base
+- **Hecho:** Se volcaron las referencias emocionales (Vinland Saga, Pandora Hearts, GL de Geoff Johns, Civil War) y se destilaron **cuatro hilos** que se repiten en todas: el enemigo que no era el enemigo, el clímax como renuncia, la revelación que reescribe lo anterior, y el gesto por encima del discurso. Después Jad volcó la trama que ya tenía armada: el mito de origen de la torre, el ciclo de dioses usurpadores, el clímax del kill robado, los dos finales candidatos y las dos organizaciones. Todo se ordenó y se volcó a `02-BIBLIA.md`, que pasó de vacía a tener secciones 1 a 9 con contenido.
+- **Entregable:** `02-BIBLIA.md` con la trama base cargada. Sesión W: el trofeo es el commit, no una foto.
+- **Cómo se sintió:** —
+- **Notas para la próxima:** La trama estaba mucho más armada de lo que Jad creía y **ya ejecuta sola los cuatro hilos de su propio gusto** — vale la pena que lo tenga presente cuando dude. Quedan seis decisiones abiertas anotadas en ESTADO ACTUAL; ninguna es urgente. Jad dijo que tiene más material sin volcar. El carril de dibujo sigue en cero: la próxima debería ser `B-01` (línea base) para que la Fase 0 cierre.
+
+---
 
 ### Sesión 000 — 2026-09-02 — Setup
 - **Tamaño:** —
