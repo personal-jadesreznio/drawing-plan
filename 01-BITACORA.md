@@ -21,8 +21,8 @@
   - [ ] ¿El dios actual es el hermano mayor o el compañero del padre?
   - [ ] ¿Cómo se entera el hermano menor del ciclo?
   - [ ] ¿Quién narra?
-  - [ ] ¿El mentor y el chico van en el equipo del medio o en el del menor?
-  - [ ] ¿El hermano menor es escudero o candidato de su equipo?
+  - [ ] ¿El hermano del medio es escudero? Si es del Ocaso, su equipo necesita un candidato propio que todavía no existe
+  - [ ] Resolver el desfasaje: el medio parte primero pero llega segundo. ¿El menor lo pasa en el camino, o se mueven las fechas?
   - [ ] Confirmar o descartar la lectura temática de la Iglesia (pureza de origen vs. pureza construida)
   - [ ] ¿Quién sabe del ciclo dentro de las organizaciones?
   - [ ] Final 1 o Final 2
@@ -76,7 +76,7 @@ Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la e
 - **Tipo:** W (solo escritura)
 - **Días desde la anterior:** 3
 - **Concepto trabajado:** Volcado de fragmentos; identificación del registro emocional propio; estructura de trama base
-- **Hecho (2ª parte):** Se definieron los **arcos cruzados** de los dos hermanos (inocente→vengativo, cínico→amoroso), su pertenencia a organizaciones opuestas (Iglesia / Ocaso), las expediciones sucesivas en vez de simultáneas, y dos personajes nuevos: el mentor y el chico. De ahí salió una lectura temática fuerte: la Iglesia elige pureza de origen y el viaje la destruye, mientras el que llega limpio viene del culto.
+- **Hecho (2ª parte):** Se definieron los **arcos cruzados** de los dos hermanos: el del medio va de cínico a amoroso (Ocaso), el menor de inocente a vengativo (candidato de la Iglesia). Ritmos distintos a propósito — el medio cambia de golpe con el sacrificio del mentor, el menor se quiebra de a poco. Expediciones sucesivas en vez de simultáneas, y dos personajes nuevos: el mentor y el chico, ambos en el equipo del medio. De ahí salió una lectura temática fuerte: la Iglesia elige pureza de origen y el viaje la destruye, mientras el que llega limpio viene del culto.
 - **Hecho:** Se volcaron las referencias emocionales (Vinland Saga, Pandora Hearts, GL de Geoff Johns, Civil War) y se destilaron **cuatro hilos** que se repiten en todas: el enemigo que no era el enemigo, el clímax como renuncia, la revelación que reescribe lo anterior, y el gesto por encima del discurso. Después Jad volcó la trama que ya tenía armada: el mito de origen de la torre, el ciclo de dioses usurpadores, el clímax del kill robado, los dos finales candidatos y las dos organizaciones. Todo se ordenó y se volcó a `02-BIBLIA.md`, que pasó de vacía a tener secciones 1 a 9 con contenido.
 - **Entregable:** `02-BIBLIA.md` con la trama base cargada. Sesión W: el trofeo es el commit, no una foto.
 - **Cómo se sintió:** —

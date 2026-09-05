@@ -80,42 +80,44 @@ Marcas:
 
 | | Hermano del medio | Hermano menor |
 |---|---|---|
-| Arranca | **Inocente** | **Cínico** |
-| Organización | **Candidato de la Iglesia del Alba** | **Séquito del Ocaso** |
-| Su ruta | La más traumática. Lo quiebra | Hereda una responsabilidad que no pidió |
-| Termina | Queriendo asesinar al dios | Salvando a su hermano por amor |
-| Llega a la torre | Primero | Segundo |
+| Arranca | **Cínico** | **Inocente** |
+| Organización | **Séquito del Ocaso** | **Candidato de la Iglesia del Alba** |
+| Su ruta | Pierde al mentor y hereda al chico | La más traumática. Lo quiebra |
+| Cómo cambia | **De golpe**, con el sacrificio del mentor | **De a poco**, se va quebrando |
+| Termina | Salvando a su hermano por amor | Queriendo asesinar al dios |
+| Parte hacia la torre | Primero (a los 10 años) | Un año después |
 
 > **Lo que se desprende de esto** 🤔: la Iglesia elige seres puros y el trono solo acepta pureza — su método es correcto, pero **el viaje destruye exactamente la pureza que selecciona**. El que llega con el corazón limpio es un miembro del culto, portando un arma forjada con almas: sacrilegio para la Iglesia. La pureza no es un estado de origen, es algo que se hace. _[a confirmar por Jad]_
 
 ### Hermano del medio — _[nombre]_
-- **Punto de partida:** inocente. Candidato a dios elegido por la Iglesia del Alba, nacido con conexión a la arcana.
-- **Qué quiere (al final):** venganza. La justicia le pesa más que la misión.
-- **Qué necesita:** _[vacío]_
-- **La herida:** el dios le quitó al hermano mayor y al padre, y arruinó a su pueblo. Encima, la ruta de su expedición es la más traumática y termina de quebrarlo.
-- **Su contradicción:** el odio que lo trajo hasta acá es exactamente lo que lo destruiría si llegara al trono.
-- **Cómo se ve — nota de diseño:** _[vacío]_
-- **Silueta:** _[pendiente de dibujo]_
-
-### Hermano menor — _[nombre]_
 - **Punto de partida:** totalmente cínico. Séquito del Ocaso.
+- **Su travesía:** viaja con una **figura mentora** que lo va ablandando y con **el chico**, más joven e inocente que ellos. En algún punto el mentor **se sacrifica para salvar al resto**, y él queda a cargo.
+- **Su vuelta:** cuidar al chico lo **obliga** a ser gentil. El cambio es **de golpe**, disparado por el sacrificio.
 - **Qué quiere (al final):** impedir que su hermano mate al dios y caiga en un nuevo ciclo.
 - **Qué necesita:** _[vacío]_
-- **Su vuelta:** al morir su mentor queda a cargo de un chico. Se ve **obligado a ser gentil**, y por ahí empieza a ablandarse.
 - **Su acto:** mata al dios él mismo, no por odio ni por poder sino por amor a su hermano. Primero en la historia de la torre en tomar el trono con sentimientos puros.
 - **Cómo se ve — nota de diseño:** _[vacío]_
 - **Silueta:** _[pendiente de dibujo]_
 
-> ⚠️ **Por decidir:** ¿el menor es **escudero** o el **candidato** de su equipo? Las expediciones se mandan con un candidato, y el trono termina aceptándolo a él. Si es un escudero el que se sienta en el trono, se rompe el protocolo de las dos organizaciones a la vez.
+> ⚠️ **Por decidir:** si es del Ocaso, es **escudero** — entonces su equipo tiene su propio candidato, que todavía no existe. Y el que termina sentado en el trono es un escudero, no un candidato: se rompe el protocolo de las dos organizaciones a la vez.
+
+### Hermano menor — _[nombre]_
+- **Punto de partida:** inocente. **Candidato a dios** elegido por la Iglesia del Alba, nacido con conexión a la arcana.
+- **Su travesía:** la ruta más traumática. Se va quebrando **de a poco**.
+- **Qué quiere (al final):** venganza. La justicia le pesa más que la misión.
+- **Qué necesita:** _[vacío]_
+- **La herida:** el dios le quitó al hermano mayor y al padre, y arruinó a su pueblo. La expedición termina de romperlo.
+- **Su contradicción:** el odio que lo trajo hasta acá es exactamente lo que lo destruiría si llegara al trono.
+- **Cómo se ve — nota de diseño:** _[vacío]_
+- **Silueta:** _[pendiente de dibujo]_
 
 ### El mentor — _[nombre]_
-- Figura de la que se aprende. **Muere**, y su muerte es lo que fuerza al hermano cínico a hacerse cargo del chico.
-- ⚠️ **Por decidir dónde va:**
-  - **A)** En el equipo del **menor**. Directo y simple.
-  - **B)** En el equipo del **medio**. Cuando ese equipo cae, el chico sobrevive y **se acopla al equipo del menor** — permitido por la regla de expediciones ya establecida. Conecta las dos líneas de tiempo y convierte al chico en testigo de lo que le pasó al hermano.
+- Va en el equipo del **hermano del medio**. Lo va ablandando durante el viaje.
+- **Se sacrifica para salvar al resto.** Esa muerte es el evento que fuerza al cínico a hacerse cargo del chico.
 
 ### El chico — _[nombre]_
-- Figura infantil. Queda a cargo del hermano menor tras la muerte del mentor. Es el vehículo del ablandamiento del cínico.
+- Va en el mismo equipo. **Más joven que los hermanos y más inocente** — pero no un nene: tuvo que ser apto para la expedición.
+- Al morir el mentor queda a cargo del hermano del medio. Es el vehículo de su ablandamiento.
 
 ### El dios actual — _[nombre]_
 - **Quién es:** _[por decidir]_ — **el hermano mayor** o **el compañero del padre / héroe de infancia**. Es la decisión más pesada abierta.
@@ -181,11 +183,13 @@ El que toma el trono sin ser legítimo enloquece, no puede bajar ni morir, y hac
 
 ### Las dos expediciones ✅
 
-**No van al mismo tiempo.** Primero parte el equipo del **hermano del medio**; el del **menor** sale después. Las historias se muestran en paralelo aunque ocurran desfasadas.
+**No van al mismo tiempo.** El equipo del **hermano del medio** parte primero (él tenía 10 años); el del **menor** sale un año después. Las historias se muestran en paralelo aunque ocurran desfasadas.
 
-Consecuencia: el menor recorre un camino que su hermano ya recorrió, y **los restos que va encontrando pueden incluir a gente de la expedición del medio**. El misterio central y el drama familiar usan la misma imagen.
+⚠️ **Conflicto a resolver:** el medio **parte** primero, pero es el que **llega** segundo al trono (es quien interrumpe a su hermano). O el menor lo pasa en el camino — plausible, porque su ruta es la dura y podría ser también la rápida — o hay que mover las fechas de partida. _[por decidir]_
 
-> Nota de oficio: los arcos cruzados se sienten mecánicos si los dos cruzan al mismo ritmo y por razones simétricas. Conviene que uno se quiebre de golpe y el otro se ablande de a poco.
+Consecuencia si el menor pasa al medio: **los restos que el medio va encontrando pueden incluir a gente de la expedición de su hermano menor**, sin saber si él está entre ellos. El misterio central y el drama familiar usan la misma imagen.
+
+> Ritmo de los arcos ✅: el medio se ablanda **de golpe** (el sacrificio del mentor); el menor se quiebra **de a poco**. Así los arcos no se sienten mecánicos.
 
 ### El último ciclo — el clímax
 
@@ -230,7 +234,7 @@ Consecuencia: el menor recorre un camino que su hermano ya recorrió, y **los re
 | ¿Qué pasó con el hermano mayor y con el padre? | Desde el capítulo 1 | _[por decidir — depende de quién sea el dios actual]_ | 🤔 |
 | ¿Por qué a los candidatos se les prohíbe usar artefactos del Ocaso? | Al presentar las organizaciones | Al revelar que se forjan con almas | 🤔 |
 | ¿Por qué la Iglesia, eligiendo siempre puros, fracasa siempre? | Al presentar el método de selección | En el clímax: el viaje destruye la pureza que selecciona | 🤔 |
-| ¿Qué le pasó a la expedición del hermano del medio? | Cuando el menor empieza a encontrar restos conocidos | _[por decidir]_ | 🤔 |
+| ¿Qué le pasó a la expedición del otro hermano? | Cuando empieza a encontrar restos conocidos | _[por decidir]_ | 🤔 |
 
 ## 9. DECISIONES CERRADAS ✅
 
@@ -244,7 +248,9 @@ Consecuencia: el menor recorre un camino que su hermano ya recorrió, y **los re
 - **El boss final es un candidato rival**, no el dios. El dios no se defiende.
 - **El costo del trono:** inmovilidad, locura, imposibilidad de morir.
 - **El costo de los artefactos:** almas de caídos, libres solo al morir el portador.
-- **Los arcos de los hermanos se cruzan:** el del medio va de inocente a vengativo; el menor, de cínico a amoroso.
-- **El del medio es candidato de la Iglesia; el menor es del Ocaso.**
+- **Los arcos de los hermanos se cruzan:** el del medio va de cínico a amoroso; el menor, de inocente a vengativo.
+- **Ritmos distintos:** el medio cambia de golpe, el menor de a poco.
+- **El del medio es del Séquito del Ocaso; el menor es el candidato de la Iglesia del Alba.**
 - **Las expediciones son sucesivas**, no simultáneas: primero el equipo del medio, después el del menor.
-- **La muerte del mentor** es lo que fuerza al cínico a hacerse cargo del chico.
+- **El mentor se sacrifica para salvar al resto**, y eso fuerza al del medio a hacerse cargo del chico.
+- **El mentor y el chico van en el equipo del hermano del medio.**
