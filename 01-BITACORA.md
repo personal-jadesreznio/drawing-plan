@@ -18,8 +18,7 @@
   - [ ] Probar si el brush pen al agua se corre bajo los Copics, y si los 120 g aguantan el marcador (va dentro de `B-02`)
   - [ ] _(opcional)_ Marker paper, solo si `B-02` confirma que el A4 no rinde
 - **Decisiones de historia abiertas** (no urgentes, ver `02-BIBLIA.md`):
-  - [ ] ¿El dios actual es el hermano mayor o el compañero del padre?
-  - [ ] ¿Cómo se entera el hermano menor del ciclo?
+  - [ ] **¿Cómo pasa alguien a los ángeles, y qué hacen durante el clímax?** ⚠️ el más urgente
   - [ ] ¿Quién narra?
   - [ ] ¿El hermano del medio es escudero? Si es del Ocaso, su equipo necesita un candidato propio que todavía no existe
   - [ ] **La pureza del motivo:** si el medio se cura al tomar el trono, ¿lo sabía? (A: no lo sabe / B: lo sabe y lo hace igual / C: no se estaba muriendo)
@@ -78,6 +77,7 @@ Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la e
 - **Tipo:** W (solo escritura)
 - **Días desde la anterior:** 3
 - **Concepto trabajado:** Volcado de fragmentos; identificación del registro emocional propio; estructura de trama base
+- **Hecho (5ª parte):** Resuelta la identidad del dios: **el gran candidato**, héroe querido de la expedición del padre y el hermano mayor, dado por muerto. El padre y el hermano quedaron como **ángeles** — los residentes del piso convertidos en guardias sin emociones, con máscara, armadura y un *blessing* que solo funciona dentro de la torre. Definida la escena del **desenmascaramiento** en la primera mitad, y **los diarios** como el mecanismo por el que el grande deduce el ciclo junto con el lector — lo que cierra el hueco marcado como el más importante. Convención de nombres pasada a **el grande / el chico / el hermano ángel**. Quedó abierto un agujero nuevo y urgente: cómo se pasa a los ángeles y qué hacen durante el clímax.
 - **Hecho (4ª parte):** La traición pasó a ser backstory de un secundario. La herida del menor pasó a ser **su propia culpa**: lidera, provoca una emboscada y mueren dos de sus escuderos. Fijada la composición de equipo en 1 candidato + 3 escuderos. Los dos traidores se volvieron el enfrentamiento final en dos frentes, y quedó coreografiado el clímax completo en 13 pasos, incluida la renuncia del traicionado (perdona al traidor secundario) que rima con la renuncia del final. Marcado el problema de la pureza del motivo: si el medio se cura al tomar el trono, puede leerse como supervivencia.
 - **Hecho (3ª parte):** Resuelto el desfasaje temporal (el medio se atrasa, el menor lo pasa). Definida la composición de los equipos (1 candidato + 2–3 escuderos) y la frecuencia (uno por año). Incorporada la **traición interna**: escuderos que matan a su propio candidato para quedarse el trono, dejando al protagonista solo y forzándolo a reagruparse con otro equipo — que es el mecanismo por el que entra el resto del elenco.
 - **Hecho (2ª parte):** Se definieron los **arcos cruzados** de los dos hermanos: el del medio va de cínico a amoroso (Ocaso), el menor de inocente a vengativo (candidato de la Iglesia). Ritmos distintos a propósito — el medio cambia de golpe con el sacrificio del mentor, el menor se quiebra de a poco. Expediciones sucesivas en vez de simultáneas, y dos personajes nuevos: el mentor y el chico, ambos en el equipo del medio. De ahí salió una lectura temática fuerte: la Iglesia elige pureza de origen y el viaje la destruye, mientras el que llega limpio viene del culto.

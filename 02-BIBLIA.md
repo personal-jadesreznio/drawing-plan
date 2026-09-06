@@ -73,13 +73,13 @@ Marcas:
 
 ## 4. PERSONAJES
 
-> **Estructura:** familia de tres hermanos. El **mayor** se fue con el padre en un grupo de ataque al dios y nunca volvió. El **del medio** partió a los 10 años; el **menor**, al año siguiente. Las tres historias se muestran en paralelo, con el foco en los dos chicos.
+> **Estructura:** familia de tres hermanos. El **mayor** se fue con el padre en un grupo de ataque al dios y nunca volvió. El **grande** partió a los 10 años; el **chico**, al año siguiente. Las tres historias se muestran en paralelo, con el foco en los dos chicos.
 
-> **Convención de nombres:** *hermano mayor* = el que se fue con el padre y desapareció. Los dos protagonistas son *del medio* y *menor*. No usar "el mayor" para referirse al del medio.
+> **Convención de nombres:** los dos protagonistas son **el grande** (el del medio, cínico, Ocaso) y **el chico** (el menor, inocente, Iglesia). El tercer hermano —el que se fue con el padre— es **el hermano ángel**, porque eso es en lo que terminó. Así los tres términos son inconfundibles.
 
 ### Los arcos cruzados ✅
 
-| | Hermano del medio | Hermano menor |
+| | El grande (del medio) | El chico (menor) |
 |---|---|---|
 | Arranca | **Cínico** | **Inocente** |
 | Organización | **Séquito del Ocaso** | **Candidato de la Iglesia del Alba** |
@@ -90,7 +90,7 @@ Marcas:
 
 > **Lo que se desprende de esto** 🤔: la Iglesia elige seres puros y el trono solo acepta pureza — su método es correcto, pero **el viaje destruye exactamente la pureza que selecciona**. El que llega con el corazón limpio es un miembro del culto, portando un arma forjada con almas: sacrilegio para la Iglesia. La pureza no es un estado de origen, es algo que se hace. _[a confirmar por Jad]_
 
-### Hermano del medio — _[nombre]_
+### El grande — _[nombre]_
 - **Punto de partida:** totalmente cínico. Séquito del Ocaso.
 - **Su travesía:** viaja con una **figura mentora** que lo va ablandando y con **el pequeño**, más joven e inocente que ellos. En algún punto el mentor **se sacrifica para salvar al resto**, y él queda a cargo.
 - **Su vuelta:** cuidar al pequeño lo **obliga** a ser gentil. El cambio es **de golpe**, disparado por el sacrificio.
@@ -102,7 +102,7 @@ Marcas:
 
 > ⚠️ **Por decidir:** si es del Ocaso, es **escudero** — entonces su equipo tiene su propio candidato, que todavía no existe. Y el que termina sentado en el trono es un escudero, no un candidato: se rompe el protocolo de las dos organizaciones a la vez.
 
-### Hermano menor — _[nombre]_
+### El chico — _[nombre]_
 - **Punto de partida:** inocente. **Candidato a dios** elegido por la Iglesia del Alba, nacido con conexión a la arcana.
 - **Su travesía:** la ruta más traumática. Se va quebrando **de a poco**. Arranca liderando con confianza; su decisión provoca la emboscada donde mueren dos de sus escuderos. Después rearma party con desconocidos.
 - **Qué quiere (al final):** venganza. La justicia le pesa más que la misión.
@@ -113,21 +113,34 @@ Marcas:
 - **Silueta:** _[pendiente de dibujo]_
 
 ### El mentor — _[nombre]_
-- Va en el equipo del **hermano del medio**. Lo va ablandando durante el viaje.
+- Va en el equipo del **grande**. Lo va ablandando durante el viaje.
 - **Se sacrifica para salvar al resto.** Esa muerte es el evento que fuerza al cínico a hacerse cargo del pequeño.
 
 ### El pequeño — _[nombre]_
 - Va en el mismo equipo. **Más joven que los hermanos y más inocente** — pero no un nene: tuvo que ser apto para la expedición.
-- Al morir el mentor queda a cargo del hermano del medio. Es el vehículo de su ablandamiento.
+- Al morir el mentor queda a cargo del grande. Es el vehículo de su ablandamiento.
 
-> Nota: llamarlo **el pequeño** y no "el chico", para no confundirlo con el hermano menor.
+> Nota: llamarlo **el pequeño** y no "el chico", para no confundirlo con el hermano chico.
 
-### El dios actual — _[nombre]_
-- **Quién es:** _[por decidir]_ — **el hermano mayor** o **el compañero del padre / héroe de infancia**. Es la decisión más pesada abierta.
-- **Qué quiere:** morir, o que alguien lo reemplace. No puede hacer ninguna de las dos por su cuenta.
+### El dios actual — el gran candidato ✅
+- **Quién es:** **el candidato más famoso y querido de su generación**, dado por muerto por todos. Iba en **la misma expedición que el padre y el hermano mayor**.
+- **Por qué tiene que ser él:** porque los ángeles se forman con los presentes en la sala al momento de la usurpación. Si el padre y el hermano quedaron como ángeles, es que estaban ahí cuando *su* candidato tomó el trono.
+- **La expedición favorita:** todos dan por hecho que fracasó. En realidad **triunfó**, y ese triunfo es la desgracia.
+- **Cómo está cuando llegan:** completamente corrompido, **deseando que lo maten**.
 - **En qué tiene razón:** es una víctima. La crueldad es su único método para provocar la revolución que lo libere.
-- **Cómo es espejo del protagonista:** llegó por la misma razón, con el mismo odio.
 - **Nota de diseño / silueta:** _[vacío]_
+
+### El padre y el hermano ángel ✅
+- Los dos **quedaron como ángeles** cuando el gran candidato tomó el trono. No murieron: fueron convertidos.
+- No reconocen a nadie. No tienen emociones. Están del otro lado.
+
+### Los ángeles ✅
+- Al activarse la maldición, **todos los residentes del piso** son cubiertos por máscara y armadura y convertidos en esclavos sin emociones que protegen al dios.
+- **Virtualmente inmortales** — no porque lo sean, sino porque **nadie ha logrado matar a uno**.
+- Cada ángel tiene un **blessing**: una ventaja que solo funciona **dentro de la torre**.
+- Se acumulan: cada usurpación agrega una tanda nueva.
+
+> ⚠️ **Agujero a resolver.** Si son imposibles de matar y se acumulan por siglos, **¿cómo pasa alguien?** Y el clímax transcurre en ese mismo piso sin mencionarlos. Salida sugerida por el propio material: el dios quiere morir y contiene a sus guardias — pero eso choca con que no controla su cuerpo y sus poderes no funcionan dentro de la torre. _[decisión de Jad]_
 
 ### El rey avaro — el primer usurpador
 - Rey con delirios de grandeza que mandó a construir la torre. Apuñaló al dios original. Origen del ciclo.
@@ -137,13 +150,13 @@ Marcas:
 
 ### La traición ✅ — backstory de un secundario
 
-**No le pasa a ninguno de los hermanos.** Es el pasado de uno de los escuderos que después se suma a la party del hermano menor.
+**No le pasa a ninguno de los hermanos.** Es el pasado de uno de los escuderos que después se suma a la party del chico.
 
 Dos escuderos **mataron al candidato de su propio equipo** para quedarse con el trono. El candidato asesinado era **el más prometedor en años**: poderes mágicos fortísimos y expertise — justamente por eso lo liquidaron a mitad de camino, en la primera oportunidad, en vez de enfrentarlo arriba. El escudero traicionado sobrevivió y quedó sin party.
 
-### La emboscada — la culpa del hermano menor ✅
+### La emboscada — la culpa del chico ✅
 
-El menor arranca **inocente y confiado, liderando a sus escuderos**. Por una decisión suya el equipo cae en una **emboscada** y mueren dos. Escapa con el único escudero que queda vivo.
+El chico arranca **inocente y confiado, liderando a sus escuderos**. Por una decisión suya el equipo cae en una **emboscada** y mueren dos. Escapa con el único escudero que queda vivo.
 
 > Esta es la herida que lo va quebrando **de a poco**: no le hicieron algo, él lo provocó. La culpa, no el agravio.
 
@@ -181,7 +194,7 @@ Son los mismos de la backstory de la traición: también llegaron hasta arriba. 
 
 - **Dónde y cuándo:** 🤔 mundo de fantasía con una **torre que llega al cielo**. Meses de construcción, meses de ascenso. El trono está arriba de todo.
 - **Cómo funcionan las expediciones:** se manda a la torre un equipo con **un candidato a dios**, elegido por el reino, y sus acompañantes tienen que estar de acuerdo con la elección. Si el candidato muere, la misión es un fracaso: los guardianes vuelven o se acoplan a otro equipo con candidato vivo.
-- **Composición del equipo:** ✅ **1 candidato + 3 escuderos.** (Se desprende de la emboscada del menor: mueren 2, queda 1.)
+- **Composición del equipo:** ✅ **1 candidato + 3 escuderos.** (Se desprende de la emboscada del chico: mueren 2, queda 1.)
 - **Frecuencia:** ✅ se manda **un equipo por año**.
 
 > Consecuencia de la frecuencia: si sale un equipo por año durante siglos, la torre está **sembrada de restos**. La imagen del ascenso entre cadáveres deja de ser un recurso y pasa a ser el estado normal del lugar.
@@ -209,34 +222,48 @@ Son los mismos de la backstory de la traición: también llegaron hasta arriba. 
 
 El que toma el trono sin ser legítimo enloquece, no puede bajar ni morir, y hace miserable a la gente de afuera para provocar una revolución que mande a alguien a reemplazarlo. **Muchos llegaron y mataron al dios. Todos ocuparon su lugar.** Por eso la crueldad nunca se interrumpe.
 
+### El desenmascaramiento — la revelación de la mitad ✅
+
+En algún punto de la primera mitad, uno de los hermanos **le saca la máscara a un ángel** y ve que tiene **la cara de su padre / de su hermano mayor**.
+
+> Es el centro emocional de la mitad de la historia, y se resuelve con silueta, máscara y una cara. No necesita dibujo virtuoso.
+
+### El diario — cómo se entera el grande ✅
+
+**El grande va encontrando el diario del candidato o del padre.** Leyéndolo se da cuenta de que no murieron y de que ellos también fueron juntando pistas en el camino.
+
+**Llega a la conclusión junto con el lector**, no antes.
+
+> Esto cierra el hueco que estaba marcado como el más grande: cómo se entera del ciclo el hermano que después roba el kill. No se lo cuenta nadie — lo deduce leyendo a su propio padre.
+
 ### Las dos expediciones ✅
 
-**No van al mismo tiempo.** El equipo del **hermano del medio** parte primero (él tenía 10 años); el del **menor** sale un año después. Las historias se muestran en paralelo aunque ocurran desfasadas.
+**No van al mismo tiempo.** El equipo del **grande** parte primero (él tenía 10 años); el del **chico** sale un año después. Las historias se muestran en paralelo aunque ocurran desfasadas.
 
-✅ **Resuelto:** el medio parte primero pero **se va atrasando con contratiempos**. El menor sale un año después, **apurado**, y termina pasándolo. Por eso el menor llega primero al trono y el medio llega justo a tiempo para interrumpirlo.
+✅ **Resuelto:** el grande parte primero pero **se va atrasando con contratiempos**. El chico sale un año después, **apurado**, y termina pasándolo. Por eso el chico llega primero al trono y el grande llega justo a tiempo para interrumpirlo.
 
-Consecuencia: **los restos que el medio va encontrando pueden incluir a gente de la expedición de su hermano menor**, sin saber si él está entre ellos. El misterio central y el drama familiar usan la misma imagen.
+Consecuencia: **los restos que el grande va encontrando pueden incluir a gente de la expedición de su hermano**, sin saber si él está entre ellos. El misterio central y el drama familiar usan la misma imagen.
 
-> Ritmo de los arcos ✅: el medio se ablanda **de golpe** (el sacrificio del mentor); el menor se quiebra **de a poco**. Así los arcos no se sienten mecánicos.
+> Ritmo de los arcos ✅: el grande se ablanda **de golpe** (el sacrificio del mentor); el chico se quiebra **de a poco**. Así los arcos no se sienten mecánicos.
 
 ### El último ciclo — el clímax ✅
 
-1. El **hermano menor** llega primero, movido por la venganza. Descubre que el dios actual es _[el hermano mayor / el compañero del padre — por decidir]_.
+1. El **chico** llega primero, movido por la venganza. Descubre que el dios actual es **el gran candidato**, el héroe que todos daban por muerto — y que su padre y su hermano están ahí, convertidos en ángeles.
 2. **Llegan las dos partys** de los hermanos al mismo espacio.
-3. **Se parte en dos frentes:** el **traidor principal** contra el hermano del **medio** y su party; el **traidor secundario** contra el hermano **menor** y la suya.
-4. El **hermano del medio cae gravemente herido**. Se da a entender que muere.
-5. El menor lo ve. **Ira** — un evento traumático más en la lista. Deja a su party peleando contra el secundario y va por el principal.
+3. **Se parte en dos frentes:** el **traidor principal** contra **el grande** y su party; el **traidor secundario** contra **el chico** y la suya.
+4. **El grande cae gravemente herido**. Se da a entender que muere.
+5. El chico lo ve. **Ira** — un evento traumático más en la lista. Deja a su party peleando contra el secundario y va por el principal.
 6. **Mata al traidor principal**, con apoyo.
 7. La party derrota al **traidor secundario**. **El traicionado exige justicia y elige no matarlo:** calabozo de por vida y le quitan el arma.
    > Es la misma renuncia del final, en chiquito, en un secundario. Y tiene precio: **las almas del artefacto solo se liberan cuando muere el portador** — perdonarle la vida las deja atrapadas.
-8. Terminada la batalla, el **menor** va a matar al dios con una espada.
+8. Terminada la batalla, **el chico** va a matar al dios con una espada.
 9. **Panel:** la espada atraviesa al dios. Sangre. Se lee como si lo hubiera hecho él.
-10. **Zoom out:** fue el **hermano del medio**, que estaba vivo.
-11. El menor, confundido, le reclama que le robó la venganza. El medio: **"lo hice por vos."**
-12. Al tomar el trono, **el medio se cura de su herida** — permanente o temporalmente.
+10. **Zoom out:** fue **el grande**, que estaba vivo.
+11. El chico, confundido, le reclama que le robó la venganza. El grande: **"lo hice por vos."**
+12. Al tomar el trono, **el grande se cura de su herida** — permanente o temporalmente.
 13. El narrador señala que por primera vez en la historia de la torre alguien tomó el trono con sentimientos puros. El ciclo se rompe y el trono lo acepta como rey legítimo.
 
-> ⚠️ **Problema a resolver — la pureza del motivo.** Si el medio se salva al tomar el trono, se puede leer como supervivencia y se cae el beat central. Tres salidas:
+> ⚠️ **Problema a resolver — la pureza del motivo.** Si el grande se salva al tomar el trono, se puede leer como supervivencia y se cae el beat central. Tres salidas:
 > - **A)** No sabe que lo va a curar. Actúa creyendo que muere igual. Hay que mostrarlo **antes**, no explicarlo después.
 > - **B)** Lo sabe y lo hace igual, y el trono lo acepta. Cambia el tema: la pureza no es ausencia de interés propio.
 > - **C)** No se está muriendo. Parece que muere, y la cura se revela después como regalo.
@@ -254,9 +281,12 @@ Consecuencia: **los restos que el medio va encontrando pueden incluir a gente de
 
 ### Huecos marcados
 
-- **Cómo se entera el hermano menor del ciclo.** Es el hueco más grande: de eso depende que "lo hice por vos" se sienta ganado y no conveniente.
+- ~~Cómo se entera del ciclo el hermano que roba el kill.~~ ✅ **Resuelto:** los diarios.
+- **Cómo pasa alguien a los ángeles**, y qué hacen los ángeles durante el clímax. ⚠️ el más urgente.
+- **La pureza del motivo** del grande al curarse en el trono (opciones A / B / C).
 - **Quién narra.** El narrador aparece en el cierre y todavía no tiene identidad.
 - **Quién sabe del ciclo** dentro de las organizaciones.
+- **El combo del traidor principal** y cómo funcionan los grimorios.
 
 ### Mapa de capítulos
 | Cap. | Qué pasa | Con qué cierra | Estado |
@@ -272,13 +302,16 @@ Consecuencia: **los restos que el medio va encontrando pueden incluir a gente de
 |---|---|---|---|
 | ¿Por qué hay restos de tantos equipos que llegaron hasta acá? | Durante el ascenso, de a poco | En la revelación, antes de llegar arriba | ✅ el misterio central |
 | Si otros llegaron, ¿por qué el dios sigue vivo y sigue siendo cruel? | Igual que arriba | Misma revelación: **llegaron, lo mataron y ocuparon su lugar** | ✅ |
-| ¿Qué pasó con el hermano mayor y con el padre? | Desde el capítulo 1 | _[por decidir — depende de quién sea el dios actual]_ | 🤔 |
+| ¿Qué pasó con el hermano mayor y con el padre? | Desde el capítulo 1 | Al desenmascarar al ángel: son ángeles | ✅ |
+| ¿Qué fue de la expedición favorita que todos dan por perdida? | Al mencionarla como leyenda | Triunfó. Su candidato es el dios actual | ✅ |
+| ¿Cómo se enteró el grande del ciclo? | Al aparecer el primer diario | Leyendo los diarios, junto con el lector | ✅ |
+| ¿Cómo hace alguien para pasar a los ángeles? | Al presentarlos como invencibles | _[por decidir]_ | ⚠️ |
 | ¿Por qué a los candidatos se les prohíbe usar artefactos del Ocaso? | Al presentar las organizaciones | Al revelar que se forjan con almas | 🤔 |
 | ¿Por qué la Iglesia, eligiendo siempre puros, fracasa siempre? | Al presentar el método de selección | En el clímax: el viaje destruye la pureza que selecciona | 🤔 |
 | ¿Qué le pasó a la expedición del otro hermano? | Cuando empieza a encontrar restos conocidos | _[por decidir]_ | 🤔 |
 | ¿Por qué los escuderos traicionaron a su candidato? | En la backstory del traicionado | En el reencuentro arriba | 🤔 |
 | ¿Cómo hace el traidor principal para ser tan fuerte? | Al verlo pelear | Usa artefacto **y** grimorio: las dos magias prohibidas a la vez | 🤔 |
-| ¿El hermano del medio sigue vivo? | Cuando cae herido | En el zoom out del panel de la espada | ✅ |
+| ¿El grande sigue vivo? | Cuando cae herido | En el zoom out del panel de la espada | ✅ |
 
 ## 9. DECISIONES CERRADAS ✅
 
@@ -291,19 +324,23 @@ Consecuencia: **los restos que el medio va encontrando pueden incluir a gente de
 - **El clímax es el kill robado por amor** y se cuenta con un cambio de encuadre, no con diálogo.
 - **El boss final es un candidato rival**, no el dios. El dios no se defiende.
 - **El costo del trono:** inmovilidad, locura, imposibilidad de morir.
+- **Los ángeles:** todos los del piso al momento de la usurpación, con máscara, armadura y un *blessing* que solo sirve dentro de la torre. Casi imposibles de matar.
+- **El dios actual es el gran candidato** de la expedición del padre y el hermano mayor. Esos dos quedaron como ángeles.
+- **El grande se entera del ciclo por el diario**, y llega a la conclusión con el lector.
+- **La escena del desenmascaramiento** va en la primera mitad.
 - **El costo de los artefactos:** almas de caídos, libres solo al morir el portador.
-- **Los arcos de los hermanos se cruzan:** el del medio va de cínico a amoroso; el menor, de inocente a vengativo.
-- **Ritmos distintos:** el medio cambia de golpe, el menor de a poco.
-- **El del medio es del Séquito del Ocaso; el menor es el candidato de la Iglesia del Alba.**
-- **Las expediciones son sucesivas**, no simultáneas: primero el equipo del medio, después el del menor.
-- **El mentor se sacrifica para salvar al resto**, y eso fuerza al del medio a hacerse cargo del pequeño.
-- **El mentor y el pequeño van en el equipo del hermano del medio.**
+- **Los arcos de los hermanos se cruzan:** el grande va de cínico a amoroso; el chico, de inocente a vengativo.
+- **Ritmos distintos:** el grande cambia de golpe, el chico de a poco.
+- **El grande es del Séquito del Ocaso; el chico es el candidato de la Iglesia del Alba.**
+- **Las expediciones son sucesivas**, no simultáneas: primero el equipo del grande, después el del chico.
+- **El mentor se sacrifica para salvar al resto**, y eso fuerza al grande a hacerse cargo del pequeño.
+- **El mentor y el pequeño van en el equipo del grande.**
 - **Equipos de 1 candidato + 3 escuderos**, uno por año.
 - **La traición es backstory de un secundario**, no de los hermanos.
-- **La herida del menor es su propia culpa:** lidera, provoca una emboscada, mueren dos de los suyos.
+- **La herida del chico es su propia culpa:** lidera, provoca una emboscada, mueren dos de los suyos.
 - **Los dos traidores son el enfrentamiento final**, en dos frentes simultáneos.
 - **El traicionado perdona la vida al traidor secundario** — y con eso deja atrapadas las almas de su artefacto.
-- **El medio se cura al tomar el trono.**
-- **El medio parte primero pero se atrasa; el menor sale un año después, apurado, y lo pasa.**
+- **El grande se cura al tomar el trono.**
+- **El grande parte primero pero se atrasa; el chico sale un año después, apurado, y lo pasa.**
 - **Hay una traición interna:** escuderos que matan a su propio candidato para quedarse el trono.
 - **El protagonista que queda solo se reagrupa con otro equipo**, y así entra el resto del elenco.
