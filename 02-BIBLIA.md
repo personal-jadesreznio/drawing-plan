@@ -22,7 +22,7 @@ Marcas:
 
 - **Premisa en una línea:** 🤔 Dos hermanos suben una torre para matar al dios que les arruinó la vida, sin saber que cada uno que lo mató antes ocupó su lugar y enloqueció.
 - **El gancho** (¿por qué alguien seguiría leyendo después de la página 1?): 🤔 Los restos de los equipos anteriores. Todos llegaron tan lejos como vos — entonces, ¿por qué el dios sigue vivo y sigue siendo cruel?
-- **De qué se trata en realidad** (el tema, no la trama): 🤔 **candidato, pendiente de que Jad lo acepte o lo tire:** *a los dos hermanos los arruina su mejor cualidad, ejercida por amor.* La confianza del chico mata a su escuadrón; la protección del grande es lo que manda al chico a la torre — si no se hubiera ido, el chico no habría prometido seguirlo.
+- **De qué se trata en realidad** (el tema, no la trama): 🤔 **candidato, pendiente de que Jad lo acepte o lo tire:** *a los dos hermanos los arruina su mejor cualidad, ejercida por amor.* La confianza del chico mata a su escuadrón. La prudencia del grande —su mayor virtud— es exactamente lo que lo hace llegar tarde y poner en riesgo al único que le importa.
 - **Tono:** fantasía con poderes. No superhéroes. Registro emocional grande, con espacio para rareza y folklore.
 - **Extensión:** ✅ **obra larga, dividida en arcos.** La unidad de trabajo para producir es el **capítulo**; el arco es la unidad de la historia.
 
@@ -100,7 +100,7 @@ Cuando el grande parte, **se prometen dos cosas:**
 | Arranca | **Cínico** | **Inocente** |
 | Organización | **Séquito del Ocaso** | **Candidato de la Iglesia del Alba** |
 | Su ruta | Pierde al mentor y hereda al pequeño | La más traumática. Lo quiebra |
-| Cómo cambia | **De golpe**, con el sacrificio del mentor | **De a poco**, se va quebrando |
+| Cómo cambia | **De golpe** | **De a poco**, se va quebrando |
 | Termina | Salvando a su hermano por amor | Queriendo asesinar al dios |
 | Parte hacia la torre | Primero (a los 10 años) | Un año después |
 
@@ -116,8 +116,12 @@ Cuando el grande parte, **se prometen dos cosas:**
 - **Lo que siente cuando el chico le promete ir a buscarlo ✅:** dos cosas a la vez. **Felicidad** de que su hermano lo quiera tanto, y **miedo de no llegar a cumplir antes de que el chico tenga que salir y ponerse en riesgo** — que es exactamente lo que pasa.
   > **Está perdiendo una carrera desde la página uno.** Cada contratiempo no es un obstáculo de trama: es su hermano acercándose a la torre. Los atrasos son su agonía.
 - **Por eso al final se sacrifica sin dudar.** Amor puro, no heroísmo.
+- **Su defecto ✅:** **ve a todos como prescindibles, excepto a su hermano.** No es frialdad genérica: es una jerarquía moral con una sola excepción.
+- **Le falta coraje y optimismo.** De tan realista y estratégico, **su expedición se atrasa** — y genera fricción con su equipo. La figura del mentor lo va notando e intenta guiarlo.
+  > **El costo de su mejor cualidad:** el cálculo y la prudencia son lo que lo hacen llegar tarde. Le está fallando a la única persona que le importa **por ser bueno en lo que es bueno.**
+- **Su ritmo de cambio:** **brusco.** (El chico cambia de a poco; el grande de golpe.)
 - **Qué necesita:** _[vacío]_
-- ⚠️ **Pregunta abierta:** ¿su protección le hizo mal al chico alguna vez *antes* de todo esto? Un hermano que te cuida de todo también te deja sin aprender. Sin un costo, el grande se vuelve un santo, y los santos son planos.
+- **Pasado ✅:** no se explora daño ni efectos negativos previos. Si se explora algo del pasado, es **lo unido del vínculo**, no lo dañino.
 
 > _Nota: la relación entre los hermanos está basada en la experiencia propia de Jad como hermano mayor._
 - **Su travesía:** viaja con una **figura mentora** que lo va ablandando y con **el pequeño**, más joven e inocente que ellos. En algún punto el mentor **se sacrifica para salvar al resto**, y él queda a cargo.
@@ -144,8 +148,25 @@ Cuando el grande parte, **se prometen dos cosas:**
 - **Silueta:** _[pendiente de dibujo]_
 
 ### El mentor — _[nombre]_
-- Va en el equipo del **grande**. Lo va ablandando durante el viaje.
-- **Se sacrifica para salvar al resto.** Esa muerte es el evento que fuerza al cínico a hacerse cargo del pequeño.
+- Va en el equipo del **grande**. Del Ocaso, como él.
+- **Nota la falta de coraje y la fricción que el grande genera con el equipo, e intenta guiarlo.**
+- **Se sacrifica para salvar al resto**, en tono positivo, y **le deja un mensaje fuerte**.
+- Esa muerte hace dos cosas a la vez: fuerza al grande a hacerse cargo del pequeño, y **le rompe desde adentro la idea de que la gente es prescindible** — alguien a quien él clasificaba así elige morir por los demás.
+
+> ⚠️ **Pregunta abierta:** el juramento del Ocaso es **donar el alma al morir**. ¿El arma que lleva el grande el resto de la subida tiene adentro **el alma del mentor**? Si es que sí, lo lleva encima todo el tramo final — y esa alma solo se libera **cuando muere el portador**. Pero el grande no muere: toma el trono. El mentor queda atrapado para siempre, salvo que el grande haga algo. Lo obliga a elegir otra vez entre lo que quiere y lo que debe, justo en el final.
+
+### Los dos giros del grande
+
+No compiten: **cambian ejes distintos.**
+
+| | Qué cambia | Efecto |
+|---|---|---|
+| **Muerte del mentor** | **Quién es** | Se le rompe la jerarquía moral. Las personas dejan de ser recursos |
+| **Descubrir la verdad** | **Qué hace** | Deja de calcular y de querer hacerlo todo perfecto. Corre, sin importarle su seguridad |
+
+> **Recomendación (Jad decide):** el mentor **primero**. Si la verdad viene antes, corre igual pero corre siendo el mismo de siempre, solo que más rápido. Con el mentor primero, cuando finalmente corre lo hace **como alguien que ahora valora a los que corren con él** — y el sacrificio del final es la conclusión de un arco, no un rasgo que ya tenía.
+>
+> ⚠️ Como el grande cambia **de golpe**, hay que decidir **cuál de los dos es *el* momento** en que el lector siente que se volvió otra persona. El otro es preparación o consecuencia, no un segundo estallido. _[por decidir]_
 
 ### El pequeño — _[nombre]_
 - Va en el mismo equipo. **Más joven que los hermanos y más inocente** — pero no un nene: tuvo que ser apto para la expedición.
@@ -392,6 +413,10 @@ Consecuencia: **los restos que el grande va encontrando pueden incluir a gente d
 - **Edades al partir:** mayor 23, grande 18, chico 16.
 - **El grande se fue para que el chico no tuviera que ir**, dispuesto a morir. La promesa de volver era mentira.
 - **Su cinismo es estrategia, no amargura.** El fin que justifica los medios es salvar a su familia.
+- **El defecto del grande:** todos son prescindibles menos su hermano.
+- **Su prudencia es lo que lo hace llegar tarde.**
+- **El grande tiene dos giros:** la muerte del mentor (cambia quién es) y descubrir la verdad (cambia qué hace).
+- **No se explora daño en el pasado de los hermanos**, solo lo unido del vínculo.
 - **La obra es larga y se divide en arcos.**
 - **Las expediciones son sucesivas**, no simultáneas: primero el equipo del grande, después el del chico.
 - **El mentor se sacrifica para salvar al resto**, y eso fuerza al grande a hacerse cargo del pequeño.
