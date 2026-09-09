@@ -2,7 +2,7 @@
 
 > Archivo de reglas y preferencias. Es la fuente de verdad sobre cómo se diseñan las sesiones.
 > Cambia poco. Si algo acá deja de ser cierto, se edita.
-> Última actualización: 2026-09-03
+> Última actualización: 2026-09-09
 
 ---
 
@@ -166,9 +166,11 @@ Cada fase termina en un entregable concreto. No se avanza por tiempo, se avanza 
 | **3** | Perspectiva funcional + fondos (acá entran las reglas curvas) | Página de 5 viñetas con fondo |
 | **4** | Narrativa: encuadre, layout, flujo de lectura | 8 páginas en thumbnails de mi historia |
 | **5** | Entintado y color (Copics / digital) | Una página final entintada y coloreada |
-| **6** | Producción | Cómic corto terminado (8–16 páginas) |
+| **6** | Producción | **Un capítulo terminado** de la historia propia |
 
 > La Fase 4 se puede empezar **en paralelo desde la Fase 1**. Pensar la historia no requiere saber dibujar.
+
+> **Decisión (2026-09-09):** el cómic es una **obra larga dividida en arcos**. Para la historia, la unidad es el arco; **para producir y para tachar hitos, la unidad es el capítulo**. Un arco son cien páginas y pico: no sirve como objetivo de fase.
 
 ## 9. Fuentes aprobadas
 
@@ -202,8 +204,9 @@ Criterio: entretenidas, cortas, orientadas a resultado. Nada de cursos de 40 hor
 - **Tono / sensibilidad:** más cercano al manga (ritmo, construcción de personaje, uso del silencio y la página).
 - **Orden de lectura:** **occidental**, izquierda a derecha. Formato de página tradicional, no tankōbon invertido.
 - **Estilo de dibujo:** el que me salga natural. **No forzar un estilo.** El estilo se descubre dibujando, no se elige de antemano.
-- **Estado de la historia:** fragmentos sueltos. Pendiente juntarlos y ver qué hay.
-- **Personajes:** _[por definir]_
+- **Estado de la historia:** trama base, mito de origen, ciclo, clímax y arcos de los protagonistas volcados en `02-BIBLIA.md`. Falta el tema, los nombres y los detalles de mundo.
+- **Personajes:** definidos por rol y arco, sin nombres todavía. Ver `02-BIBLIA.md` §4.
+- **Extensión:** obra larga por arcos.
 
 ## 10.a. Referencias visuales
 

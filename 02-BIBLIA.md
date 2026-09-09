@@ -24,7 +24,7 @@ Marcas:
 - **El gancho** (¿por qué alguien seguiría leyendo después de la página 1?): 🤔 Los restos de los equipos anteriores. Todos llegaron tan lejos como vos — entonces, ¿por qué el dios sigue vivo y sigue siendo cruel?
 - **De qué se trata en realidad** (el tema, no la trama): _[vacío — lo contesta Jad. Ver `W-03`.]_
 - **Tono:** fantasía con poderes. No superhéroes. Registro emocional grande, con espacio para rareza y folklore.
-- **Extensión objetivo del primer arco:** _[vacío — sugerencia: 1 capítulo de 16–24 páginas]_
+- **Extensión:** ✅ **obra larga, dividida en arcos.** La unidad de trabajo para producir es el **capítulo**; el arco es la unidad de la historia.
 
 ## 2. FRAGMENTOS SUELTOS
 
@@ -73,6 +73,20 @@ Marcas:
 
 ## 4. PERSONAJES
 
+> **La madre está muerta.** ✅ Tras perder al padre y al hermano mayor, los dos protagonistas **no tienen a nadie más que el uno al otro**.
+
+### La relación entre los hermanos ✅
+
+**Super cercana. Los dos darían la vida por el otro.**
+
+Cuando el grande parte, **se prometen dos cosas:**
+- El grande: **"voy a volver."**
+- El chico: **"voy a ir a encontrarte."**
+
+> **La columna vertebral de la historia:** el final es **las dos promesas cumpliéndose a la vez**. El grande vuelve — es el que llega justo a tiempo para interrumpirlo. El chico fue a buscarlo — subió la torre entera. Cumplen los dos, y ese cumplimiento es lo que rompe el ciclo.
+
+> ⚠️ **Ajuste al cinismo del grande:** un chico que ama así no es un cínico genérico. Su cinismo tiene que ser específico — **no cree en nada ni en nadie, excepto en una persona.** Eso hace el final inevitable: lo único en lo que nunca dejó de creer es lo único sobre lo que actúa. _[a confirmar]_
+
 > **Estructura:** familia de tres hermanos. El **mayor** se fue con el padre en un grupo de ataque al dios y nunca volvió. El **grande** partió a los 10 años; el **chico**, al año siguiente. Las tres historias se muestran en paralelo, con el foco en los dos chicos.
 
 > **Convención de nombres:** los dos protagonistas son **el grande** (el del medio, cínico, Ocaso) y **el chico** (el menor, inocente, Iglesia). El tercer hermano —el que se fue con el padre— es **el hermano ángel**, porque eso es en lo que terminó. Así los tres términos son inconfundibles.
@@ -91,7 +105,9 @@ Marcas:
 > **Lo que se desprende de esto** 🤔: la Iglesia elige seres puros y el trono solo acepta pureza — su método es correcto, pero **el viaje destruye exactamente la pureza que selecciona**. El que llega con el corazón limpio es un miembro del culto, portando un arma forjada con almas: sacrilegio para la Iglesia. La pureza no es un estado de origen, es algo que se hace. _[a confirmar por Jad]_
 
 ### El grande — _[nombre]_
-- **Punto de partida:** totalmente cínico. Séquito del Ocaso.
+- **Punto de partida:** cínico — pero **no con su hermano**. No cree en nada ni en nadie excepto en él. Séquito del Ocaso.
+- **Por qué el Ocaso y no la Iglesia, a los 10 años:** _[vacío]_
+- **¿Se fue para que el chico no tuviera que ir?** _[vacío]_ — si es que sí, cuando el chico sale igual un año después **le anula el sacrificio entero**, y eso explicaría el atraso, la desesperación y la bronca. ¿Y se lo admite, o se dice que fue por venganza?
 - **Su travesía:** viaja con una **figura mentora** que lo va ablandando y con **el pequeño**, más joven e inocente que ellos. En algún punto el mentor **se sacrifica para salvar al resto**, y él queda a cargo.
 - **Su vuelta:** cuidar al pequeño lo **obliga** a ser gentil. El cambio es **de golpe**, disparado por el sacrificio.
 - **Qué quiere (al final):** impedir que su hermano mate al dios y caiga en un nuevo ciclo.
@@ -359,6 +375,9 @@ Consecuencia: **los restos que el grande va encontrando pueden incluir a gente d
 - **Los arcos de los hermanos se cruzan:** el grande va de cínico a amoroso; el chico, de inocente a vengativo.
 - **Ritmos distintos:** el grande cambia de golpe, el chico de a poco.
 - **El grande es del Séquito del Ocaso; el chico es el candidato de la Iglesia del Alba.**
+- **La madre está muerta.** Los hermanos se tienen solo el uno al otro.
+- **Las dos promesas:** "voy a volver" / "voy a ir a encontrarte". El final es las dos cumpliéndose a la vez.
+- **La obra es larga y se divide en arcos.**
 - **Las expediciones son sucesivas**, no simultáneas: primero el equipo del grande, después el del chico.
 - **El mentor se sacrifica para salvar al resto**, y eso fuerza al grande a hacerse cargo del pequeño.
 - **El mentor y el pequeño van en el equipo del grande.**
