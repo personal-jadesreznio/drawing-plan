@@ -103,11 +103,14 @@ Marcas:
 > ⚠️ **Por decidir:** si es del Ocaso, es **escudero** — entonces su equipo tiene su propio candidato, que todavía no existe. Y el que termina sentado en el trono es un escudero, no un candidato: se rompe el protocolo de las dos organizaciones a la vez.
 
 ### El chico — _[nombre]_
-- **Punto de partida:** inocente. **Candidato a dios** elegido por la Iglesia del Alba, nacido con conexión a la arcana.
-- **Su travesía:** la ruta más traumática. Se va quebrando **de a poco**. Arranca liderando con confianza; su decisión provoca la emboscada donde mueren dos de sus escuderos. Después rearma party con desconocidos.
-- **Qué quiere (al final):** venganza. La justicia le pesa más que la misión.
-- **Qué necesita:** _[vacío]_
-- **La herida:** el dios le quitó al hermano mayor y al padre, y arruinó a su pueblo. Pero la herida que de verdad lo rompe es **la culpa**: no se la hicieron, la provocó él.
+- **Punto de partida:** ✅ el **protagonista clásico de shonen**: confiado, positivo, convencido de que con voluntad todo sale bien. Candidato a dios, usa la arcana, y **manda a sus escuderos**.
+- **Qué quiere:** ✅ **ser un héroe.** Encontrar a su padre y a su hermano mayor, y que la gente lo reconozca como el elegido que la Iglesia dice que es. La venganza viene después; al principio no hay odio, hay optimismo.
+- **Qué necesita:** _[vacío — pero apunta a dejar de necesitar ser especial]_
+- **El motor de su tragedia** ✅: **todo lo que quiere, lo consigue, y cada cosa que consigue lo destruye.**
+  - Quiere liderar → lidera → entierra a dos de los suyos.
+  - Quiere encontrar a su padre → lo encuentra → tiene que matarlo.
+  - Quiere que lo reconozcan como elegido → **lo es de verdad** → y no sirvió de nada.
+- **La herida:** la culpa. No se la hicieron: la provocó él.
 - **Su contradicción:** el odio que lo trajo hasta acá es exactamente lo que lo destruiría si llegara al trono.
 - **Cómo se ve — nota de diseño:** _[vacío]_
 - **Silueta:** _[pendiente de dibujo]_
@@ -154,11 +157,35 @@ Marcas:
 
 Dos escuderos **mataron al candidato de su propio equipo** para quedarse con el trono. El candidato asesinado era **el más prometedor en años**: poderes mágicos fortísimos y expertise — justamente por eso lo liquidaron a mitad de camino, en la primera oportunidad, en vez de enfrentarlo arriba. El escudero traicionado sobrevivió y quedó sin party.
 
-### La emboscada — la culpa del chico ✅
+### El primer tercio — la racha de suerte ✅
 
-El chico arranca **inocente y confiado, liderando a sus escuderos**. Por una decisión suya el equipo cae en una **emboscada** y mueren dos. Escapa con el único escudero que queda vivo.
+**La emboscada no es el arranque: pasa cerca del primer tercio.** Antes hay una acumulación de situaciones donde **todo le sale bien de pura casualidad, y él no lo ve.** Lo lee como mérito propio y como confirmación de que es el elegido.
 
-> Esta es la herida que lo va quebrando **de a poco**: no le hicieron algo, él lo provocó. La culpa, no el agravio.
+El lector tiene que sentir que todo va bien **y a la vez que todo pudo salir mal**. Un deus ex machina jugando en contra, que se acumula hasta que estalla.
+
+_[las situaciones concretas, sin pensar todavía]_
+
+> **Cómo ejecutarlo en cómic:** cada victoria temprana necesita **un panel donde la cámara se va de él** y muestra lo que realmente lo salvó — la piedra que cayó justo, el enemigo que se tropezó, el escudero que paró algo sin que él se enterara. Él nunca mira; el lector siempre mira. Repetido cuatro o cinco veces deja de ser gracioso y se vuelve pavor.
+>
+> **El pago es una ausencia:** en la emboscada ese panel **no está**. La cámara busca lo que lo salva y no hay nada. El lector ya aprendió a buscarlo y no lo encuentra. No hace falta diálogo.
+
+### Incidente 1 — la emboscada ✅
+
+Culmina en la **muerte de casi todo su escuadrón** y su propia casi-muerte. **Lo rescata el único superviviente**, y huyen **dejando los cadáveres de los demás**. Queda completamente traumado.
+
+> Que lo *rescaten* y no que escape por sus medios es lo que rompe el molde del héroe. Y dejar los cuerpos atrás es la imagen.
+
+### Incidente 2 — el padre ✅
+
+Encuentra a **su padre** convertido en ángel — **un ángel distinto del que encuentra el grande** — lo desenmascara, y **termina teniendo que matarlo**.
+
+### Incidente 3 — _[por pensar]_
+
+Algo que termine de romperlo.
+
+> **Marco para elegirlo:** el primero le sacó la **competencia**, el segundo la **familia**. Si el tercero saca algo parecido, se siente repetido. El que queda libre es el **sentido**: descubrir que la misión por la que sacrificó todo eso no valía lo que él creía. Ahí ya no le queda nada que perder, y matar al dios es lo único que le queda. _[decisión de Jad]_
+
+> Los tres son **turning points que invierten al personaje**, no desgracias sueltas.
 
 Después los dos se integran con **dos escuderos sin equipo**, sobrevivientes de exterminios de sus propias partys. Uno de ellos es **el traicionado**. La party queda otra vez de cuatro, pero armada con desconocidos.
 
@@ -224,7 +251,7 @@ El que toma el trono sin ser legítimo enloquece, no puede bajar ni morir, y hac
 
 ### El desenmascaramiento — la revelación de la mitad ✅
 
-En algún punto de la primera mitad, uno de los hermanos **le saca la máscara a un ángel** y ve que tiene **la cara de su padre / de su hermano mayor**.
+Los dos hermanos desenmascaran a **ángeles distintos**. ✅ El **chico** encuentra a **su padre** — y termina teniendo que matarlo. El **grande** encuentra al **hermano mayor**.
 
 > Es el centro emocional de la mitad de la historia, y se resuelve con silueta, máscara y una cara. No necesita dibujo virtuoso.
 
