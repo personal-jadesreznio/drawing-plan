@@ -22,7 +22,7 @@ Marcas:
 
 - **Premisa en una línea:** 🤔 Dos hermanos suben una torre para matar al dios que les arruinó la vida, sin saber que cada uno que lo mató antes ocupó su lugar y enloqueció.
 - **El gancho** (¿por qué alguien seguiría leyendo después de la página 1?): 🤔 Los restos de los equipos anteriores. Todos llegaron tan lejos como vos — entonces, ¿por qué el dios sigue vivo y sigue siendo cruel?
-- **De qué se trata en realidad** (el tema, no la trama): _[vacío — lo contesta Jad. Ver `W-03`.]_
+- **De qué se trata en realidad** (el tema, no la trama): 🤔 **candidato, pendiente de que Jad lo acepte o lo tire:** *a los dos hermanos los arruina su mejor cualidad, ejercida por amor.* La confianza del chico mata a su escuadrón; la protección del grande es lo que manda al chico a la torre — si no se hubiera ido, el chico no habría prometido seguirlo.
 - **Tono:** fantasía con poderes. No superhéroes. Registro emocional grande, con espacio para rareza y folklore.
 - **Extensión:** ✅ **obra larga, dividida en arcos.** La unidad de trabajo para producir es el **capítulo**; el arco es la unidad de la historia.
 
@@ -87,7 +87,9 @@ Cuando el grande parte, **se prometen dos cosas:**
 
 > ⚠️ **Ajuste al cinismo del grande:** un chico que ama así no es un cínico genérico. Su cinismo tiene que ser específico — **no cree en nada ni en nadie, excepto en una persona.** Eso hace el final inevitable: lo único en lo que nunca dejó de creer es lo único sobre lo que actúa. _[a confirmar]_
 
-> **Estructura:** familia de tres hermanos. El **mayor** se fue con el padre en un grupo de ataque al dios y nunca volvió. El **grande** partió a los 10 años; el **chico**, al año siguiente. Las tres historias se muestran en paralelo, con el foco en los dos chicos.
+> **Estructura y edades ✅:** familia de tres hermanos. El **mayor** se fue con el padre en un grupo de ataque al dios y nunca volvió — tenía **23**. El **grande** partió a los **18**; el **chico**, un año después, a los **16**. (Hay tres años entre ellos.) La madre está muerta. Las tres historias se muestran en paralelo, con el foco en los dos protagonistas.
+>
+> _[por definir: cuánto tiempo pasó entre la expedición del mayor y la partida del grande]_
 
 > **Convención de nombres:** los dos protagonistas son **el grande** (el del medio, cínico, Ocaso) y **el chico** (el menor, inocente, Iglesia). El tercer hermano —el que se fue con el padre— es **el hermano ángel**, porque eso es en lo que terminó. Así los tres términos son inconfundibles.
 
@@ -105,9 +107,19 @@ Cuando el grande parte, **se prometen dos cosas:**
 > **Lo que se desprende de esto** 🤔: la Iglesia elige seres puros y el trono solo acepta pureza — su método es correcto, pero **el viaje destruye exactamente la pureza que selecciona**. El que llega con el corazón limpio es un miembro del culto, portando un arma forjada con almas: sacrilegio para la Iglesia. La pureza no es un estado de origen, es algo que se hace. _[a confirmar por Jad]_
 
 ### El grande — _[nombre]_
-- **Punto de partida:** cínico — pero **no con su hermano**. No cree en nada ni en nadie excepto en él. Séquito del Ocaso.
-- **Por qué el Ocaso y no la Iglesia, a los 10 años:** _[vacío]_
-- **¿Se fue para que el chico no tuviera que ir?** _[vacío]_ — si es que sí, cuando el chico sale igual un año después **le anula el sacrificio entero**, y eso explicaría el atraso, la desesperación y la bronca. ¿Y se lo admite, o se dice que fue por venganza?
+- **Edad al partir:** 18.
+- **Su cinismo ✅:** no es amargura. Es **realismo, cálculo y estrategia**, y creer que el fin justifica los medios — **siendo el fin no llegar a la cima, sino salvar a su familia.** No cree en nada ni en nadie, excepto en su hermano.
+- **Por qué el Ocaso y no la Iglesia ✅:** el culto es la única filosofía que te deja hacer lo que haga falta. La Iglesia exige pureza de intención; a él la pureza no le importaba, le importaba que funcionara.
+  > **El remate temático:** el trono lo acepta **a él**, el único que llegó sin querer poder. Era el más puro de toda la torre y se pasó la vida creyéndose el más sucio.
+- **Por qué se fue ✅:** para que el chico **no tuviera que ir**, y para recuperarle a su familia — **aunque le costara la vida**. Todo lo que hace es por su hermano. Es protector.
+- **La promesa era mentira ✅:** le dijo "voy a volver" sabiendo que iba dispuesto a morir. Lo primero que hace por amor es mentirle.
+- **Lo que siente cuando el chico le promete ir a buscarlo ✅:** dos cosas a la vez. **Felicidad** de que su hermano lo quiera tanto, y **miedo de no llegar a cumplir antes de que el chico tenga que salir y ponerse en riesgo** — que es exactamente lo que pasa.
+  > **Está perdiendo una carrera desde la página uno.** Cada contratiempo no es un obstáculo de trama: es su hermano acercándose a la torre. Los atrasos son su agonía.
+- **Por eso al final se sacrifica sin dudar.** Amor puro, no heroísmo.
+- **Qué necesita:** _[vacío]_
+- ⚠️ **Pregunta abierta:** ¿su protección le hizo mal al chico alguna vez *antes* de todo esto? Un hermano que te cuida de todo también te deja sin aprender. Sin un costo, el grande se vuelve un santo, y los santos son planos.
+
+> _Nota: la relación entre los hermanos está basada en la experiencia propia de Jad como hermano mayor._
 - **Su travesía:** viaja con una **figura mentora** que lo va ablandando y con **el pequeño**, más joven e inocente que ellos. En algún punto el mentor **se sacrifica para salvar al resto**, y él queda a cargo.
 - **Su vuelta:** cuidar al pequeño lo **obliga** a ser gentil. El cambio es **de golpe**, disparado por el sacrificio.
 - **Qué quiere (al final):** impedir que su hermano mate al dios y caiga en un nuevo ciclo.
@@ -317,10 +329,10 @@ Consecuencia: **los restos que el grande va encontrando pueden incluir a gente d
 
 | | Qué pasa | Qué deja abierto |
 |---|---|---|
-| **Final 1** | El hermano acepta el lugar del dios como verdadero reemplazo. No enloquece, cumple su deber con gusto y deja ir a los demás. | Restaura el sistema que causó la tragedia. Más cálido. |
-| **Final 2** | Aceptado como dios legítimo, decide igual que es demasiado poder para un humano. Como no es un intruso, puede irse — y se va, con los demás, dejando el trono vacío. | Vacía el trono. Obliga a responder qué pasa con un mundo sin dios. |
+| **Final 1** | El grande acepta el lugar del dios como verdadero reemplazo. No enloquece, cumple su deber con gusto y deja ir a los demás. | Restaura el sistema que causó la tragedia. **Cumple la misión y rompe la promesa: nunca vuelve.** |
+| **Final 2** | Aceptado como dios legítimo, decide igual que es demasiado poder para un humano. Como no es un intruso, puede irse — y se va, con los demás, dejando el trono vacío. | Vacía el trono. **Cumple la promesa: vuelve.** Obliga a responder qué pasa con un mundo sin dios. |
 
-> **Decisión de Jad, no urgente.** Los cuatro hilos de la sección 2 apuntan al Final 2 (el clímax como renuncia), pero eso es una observación, no un voto.
+> **La pregunta real del final ✅:** no es "restaurar o vaciar el trono". Es **si vuelve con su hermano o no**. Los cuatro hilos de la sección 2 apuntan al Final 2, pero es decisión de Jad.
 
 ### Huecos marcados
 
@@ -377,6 +389,9 @@ Consecuencia: **los restos que el grande va encontrando pueden incluir a gente d
 - **El grande es del Séquito del Ocaso; el chico es el candidato de la Iglesia del Alba.**
 - **La madre está muerta.** Los hermanos se tienen solo el uno al otro.
 - **Las dos promesas:** "voy a volver" / "voy a ir a encontrarte". El final es las dos cumpliéndose a la vez.
+- **Edades al partir:** mayor 23, grande 18, chico 16.
+- **El grande se fue para que el chico no tuviera que ir**, dispuesto a morir. La promesa de volver era mentira.
+- **Su cinismo es estrategia, no amargura.** El fin que justifica los medios es salvar a su familia.
 - **La obra es larga y se divide en arcos.**
 - **Las expediciones son sucesivas**, no simultáneas: primero el equipo del grande, después el del chico.
 - **El mentor se sacrifica para salvar al resto**, y eso fuerza al grande a hacerse cargo del pequeño.
