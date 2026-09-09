@@ -22,7 +22,10 @@ Marcas:
 
 - **Premisa en una línea:** 🤔 Dos hermanos suben una torre para matar al dios que les arruinó la vida, sin saber que cada uno que lo mató antes ocupó su lugar y enloqueció.
 - **El gancho** (¿por qué alguien seguiría leyendo después de la página 1?): 🤔 Los restos de los equipos anteriores. Todos llegaron tan lejos como vos — entonces, ¿por qué el dios sigue vivo y sigue siendo cruel?
-- **De qué se trata en realidad** (el tema, no la trama): 🤔 **candidato, pendiente de que Jad lo acepte o lo tire:** *a los dos hermanos los arruina su mejor cualidad, ejercida por amor.* La confianza del chico mata a su escuadrón. La prudencia del grande —su mayor virtud— es exactamente lo que lo hace llegar tarde y poner en riesgo al único que le importa.
+- **El patrón** (esto está resuelto): *a los dos hermanos los arruina su mejor cualidad, ejercida por amor.* La confianza del chico mata a su escuadrón. La prudencia del grande —su mayor virtud— es exactamente lo que lo hace llegar tarde y poner en riesgo al único que le importa.
+- **De qué se trata en realidad** (el tema, no la trama): _[lo escribe Jad]_
+  > El patrón es el **diagnóstico**; el tema es el **veredicto**. El mismo esqueleto sirve para historias distintas: que querer nunca alcanza para proteger y eso es una tragedia sin salida; que amar es necesariamente poner en peligro y vale la pena igual; que el que quiere salvar termina necesitando que lo salven; que no hay forma buena de querer, solo formas.
+  > **Los dos finales son dos veredictos distintos.** Al elegir el final, el tema queda contestado se escriba o no. Mejor escribirlo antes. Una frase fea alcanza: *"esta historia dice que…"*.
 - **Tono:** fantasía con poderes. No superhéroes. Registro emocional grande, con espacio para rareza y folklore.
 - **Extensión:** ✅ **obra larga, dividida en arcos.** La unidad de trabajo para producir es el **capítulo**; el arco es la unidad de la historia.
 
@@ -60,7 +63,7 @@ Marcas:
 - **La regla:** ✅ El poder del dios es omnisciencia y omnipotencia, pero **solo fuera de la torre**. Adentro, el que ocupa el trono no puede moverse ni actuar sobre sí mismo. Aparte del trono existe la magia de la **arcana** (candidatos) y los **artefactos** (escuderos).
 - **El costo:** ✅ Dos costos distintos, y son el motor de la historia.
   - **El trono:** quien lo toma sin ser legítimo recibe todo el conocimiento de golpe, es detectado como intruso, queda inmovilizado y enloquece. No puede bajar ni morir. La única salida es que otro lo reemplace.
-  - **Los artefactos del Ocaso:** se forjan con almas de caídos. Parte del juramento del culto es donar tu alma al morir; el alma solo se libera cuando muere el portador del arma que la contiene.
+  - **Los artefactos del Ocaso:** se forjan con almas de caídos. Parte del juramento del culto es donar tu alma al morir; el alma solo se libera cuando muere el portador del arma que la contiene. ✅ **Tomar el trono cuenta como muerte/trascendencia a estos efectos:** el alma se libera igual.
 - **El límite:** ✅ El dios no puede salir del trono, no puede provocar su propia muerte, y sus poderes no tienen efecto dentro de la torre. De ahí el ciclo: enloquece, hace miserable al pueblo de afuera para provocar una revolución, y espera que alguien suba a reemplazarlo.
 - **Quién puede y quién no:** ✅ Los **candidatos a dios** nacen elegidos, con conexión a la arcana y capacidad de usar magia. Los elige la Iglesia del Alba. Los **escuderos** no tienen magia propia: usan artefactos forjados por los herreros del Ocaso.
 - **Cómo lo ve la sociedad:** 🤔 El dios es un tirano a derrocar. Las dos organizaciones, opuestas en filosofía, colaboran para lograrlo.
@@ -118,7 +121,7 @@ Cuando el grande parte, **se prometen dos cosas:**
 - **Por eso al final se sacrifica sin dudar.** Amor puro, no heroísmo.
 - **Su defecto ✅:** **ve a todos como prescindibles, excepto a su hermano.** No es frialdad genérica: es una jerarquía moral con una sola excepción.
 - **Le falta coraje y optimismo.** De tan realista y estratégico, **su expedición se atrasa** — y genera fricción con su equipo. La figura del mentor lo va notando e intenta guiarlo.
-  > **El costo de su mejor cualidad:** el cálculo y la prudencia son lo que lo hacen llegar tarde. Le está fallando a la única persona que le importa **por ser bueno en lo que es bueno.**
+  > **El costo de su mejor cualidad ✅ — principio fijado:** el cálculo y la prudencia son lo que lo hacen llegar tarde. **Le está fallando a su hermano por ser bueno en lo que es bueno.** No por un error, no por debilidad, no por una mala decisión: por su virtud. Un tipo que hace todo bien y por eso llega tarde es más difícil de escribir y más difícil de olvidar que uno que se equivoca.
 - **Su ritmo de cambio:** **brusco.** (El chico cambia de a poco; el grande de golpe.)
 - **Qué necesita:** _[vacío]_
 - **Pasado ✅:** no se explora daño ni efectos negativos previos. Si se explora algo del pasado, es **lo unido del vínculo**, no lo dañino.
@@ -153,7 +156,15 @@ Cuando el grande parte, **se prometen dos cosas:**
 - **Se sacrifica para salvar al resto**, en tono positivo, y **le deja un mensaje fuerte**.
 - Esa muerte hace dos cosas a la vez: fuerza al grande a hacerse cargo del pequeño, y **le rompe desde adentro la idea de que la gente es prescindible** — alguien a quien él clasificaba así elige morir por los demás.
 
-> ⚠️ **Pregunta abierta:** el juramento del Ocaso es **donar el alma al morir**. ¿El arma que lleva el grande el resto de la subida tiene adentro **el alma del mentor**? Si es que sí, lo lleva encima todo el tramo final — y esa alma solo se libera **cuando muere el portador**. Pero el grande no muere: toma el trono. El mentor queda atrapado para siempre, salvo que el grande haga algo. Lo obliga a elegir otra vez entre lo que quiere y lo que debe, justo en el final.
+**El alma del mentor va a su arma** (juramento del Ocaso). ✅ El grande la lleva el resto de la subida.
+
+> **Regla nueva ✅:** **tomar el trono cuenta como haber muerto o trascendido.** El alma contenida en el arma del portador **se libera**. No queda nadie atrapado.
+>
+> Consecuencia: **lo último que hace el grande antes de volverse dios es liberar a su mentor.** Sin decirlo.
+
+**El arma doble ✅:** a partir de ahí el grande usa **el arma del mentor Y la suya**. Es rarísimo — a nadie le dan dos. Viene con **power-up** y con el cambio total de personalidad.
+
+> **Es un cambio de silueta.** El lector lo ve distinto antes de verlo actuar distinto. Puro lenguaje de cómic: el gesto por encima del discurso.
 
 ### Los dos giros del grande
 
@@ -161,12 +172,10 @@ No compiten: **cambian ejes distintos.**
 
 | | Qué cambia | Efecto |
 |---|---|---|
-| **Muerte del mentor** | **Quién es** | Se le rompe la jerarquía moral. Las personas dejan de ser recursos |
-| **Descubrir la verdad** | **Qué hace** | Deja de calcular y de querer hacerlo todo perfecto. Corre, sin importarle su seguridad |
+| **Muerte del mentor** ⚡ | **Quién es** — *el estallido* | Se le rompe la jerarquía moral. Las personas dejan de ser recursos. Arma doble + power-up |
+| **Descubrir la verdad** | **Qué hace** — objetivo y ritmo | Deja de calcular y de querer hacerlo todo perfecto. Corre, sin importarle su seguridad |
 
-> **Recomendación (Jad decide):** el mentor **primero**. Si la verdad viene antes, corre igual pero corre siendo el mismo de siempre, solo que más rápido. Con el mentor primero, cuando finalmente corre lo hace **como alguien que ahora valora a los que corren con él** — y el sacrificio del final es la conclusión de un arco, no un rasgo que ya tenía.
->
-> ⚠️ Como el grande cambia **de golpe**, hay que decidir **cuál de los dos es *el* momento** en que el lector siente que se volvió otra persona. El otro es preparación o consecuencia, no un segundo estallido. _[por decidir]_
+**Resuelto ✅:** **el estallido es la muerte del mentor.** Ahí cambia la personalidad por completo, y viene con el arma doble y el power-up. El descubrimiento de la verdad no es un segundo estallido: **cambia su objetivo y su ritmo**, no quién es.
 
 ### El pequeño — _[nombre]_
 - Va en el mismo equipo. **Más joven que los hermanos y más inocente** — pero no un nene: tuvo que ser apto para la expedición.
@@ -415,7 +424,9 @@ Consecuencia: **los restos que el grande va encontrando pueden incluir a gente d
 - **Su cinismo es estrategia, no amargura.** El fin que justifica los medios es salvar a su familia.
 - **El defecto del grande:** todos son prescindibles menos su hermano.
 - **Su prudencia es lo que lo hace llegar tarde.**
-- **El grande tiene dos giros:** la muerte del mentor (cambia quién es) y descubrir la verdad (cambia qué hace).
+- **El estallido del grande es la muerte del mentor**, con arma doble y power-up. La verdad cambia su objetivo y su ritmo, no quién es.
+- **Tomar el trono libera el alma del arma:** cuenta como muerte o trascendencia.
+- **El grande le falla a su hermano por ser bueno en lo que es bueno.**
 - **No se explora daño en el pasado de los hermanos**, solo lo unido del vínculo.
 - **La obra es larga y se divide en arcos.**
 - **Las expediciones son sucesivas**, no simultáneas: primero el equipo del grande, después el del chico.
