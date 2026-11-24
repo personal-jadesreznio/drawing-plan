@@ -7,13 +7,13 @@
 
 ## ESTADO ACTUAL
 
-- **Fase:** 0 — Setup y calibración
-- **Sesiones completadas:** 2 — las dos del carril W. **El carril de dibujo todavía no arrancó.**
-- **Última sesión:** 2026-09-09 (`W-03`, tipo W, tamaño M)
-- **Concepto más reciente:** Deseo vs. necesidad; arcos y defectos de los dos hermanos
-- **Próximo entregable de fase:** Hoja de "dónde estoy hoy" (`B-01`, línea base). Es carril de dibujo y es lo único que falta para cerrar la Fase 0
+- **Fase:** 1 — Silueta y manchas negras (la Fase 0 cerró con la línea base de la sesión 003)
+- **Sesiones completadas:** 3 — dos W y una D. **El carril de dibujo arrancó.**
+- **Última sesión:** 2026-11-24 (`B-01`, tipo D, tamaño XS)
+- **Concepto más reciente:** Línea base: dibujar sin instrucción y sin borrar
+- **Próximo entregable de fase:** Un dibujo resuelto solo en blanco y negro + una tira de 4 viñetas. Para arrancar, el bloque gráfico: `B-10` o `B-11`
 - **Biblia:** 443 líneas, secciones 1 a 9 con contenido. Trama, mito de origen, ciclo, clímax coreografiado, sistema de poderes y arcos de los dos protagonistas. Falta el tema, los nombres, los detalles de mundo y el mapa de capítulos
-- **Trofeos:** `trofeos/` vacía. Todavía no hay ningún entregable de dibujo
+- **Trofeos:** 3 fotos, todas de la línea base (`003-…-a/b/c`). Ya hay algo para `B-92` y para los reingresos
 - **Materiales:** completos para Fase 1. Papel (A5 + A4 de 120 g), brush pen, regla recta y Copic 100 Black ✅ — actualizado 2026-09-03
 - **Pendientes abiertos:**
   - [ ] Probar si el brush pen al agua se corre bajo los Copics, y si los 120 g aguantan el marcador (va dentro de `B-02`)
@@ -38,7 +38,7 @@
 Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la energía del día y lo que venga antes.
 
 **Fase 0**
-- `B-01` **Línea base.** Dibujar 4 cosas sin instrucción (una cara, una mano, un objeto de la casa, un personaje de memoria). Sin borrar. Es la foto del "antes". _[XS/M]_
+- ~~`B-01` **Línea base.**~~ ✅ hecho en la sesión 003.
 - `B-02` **Calibración de materiales.** Probar cada herramienta 5 min: portaminas, brush pen, Copics, iPad. Una hoja de muestras. Incluir el test de traspaso: brush pen al agua debajo de Copic, y Copic sobre el A4 de 120 g. Decidir cuál es el material por defecto. _[M]_
 
 **Fase 1 — bloque gráfico (nuevo, va primero)**
@@ -73,6 +73,18 @@ Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la e
 ---
 
 ## REGISTRO DE SESIONES
+
+### Sesión 003 — 2026-11-24 — Línea base
+- **Tamaño:** XS (20 min)
+- **Tipo:** D (solo dibujo)
+- **Días desde la anterior:** 76 → reingreso XS. Primera sesión de dibujo, así que no había trofeo para redibujar y se hizo `B-01`
+- **Concepto trabajado:** Línea base: dibujar sin instrucción y sin borrar (cara, mano, objeto, personaje de memoria). Sharbo X como portaminas, sketchbook A5
+- **Hecho:** Calentamiento de líneas largas y elipses superpuestas. Después los cuatro de la consigna: **cara** (un chico de estilo manga, encajado en la punta del dedo de la mano), **mano** (la propia, abierta y con los dedos separados), **objeto** (el dock de la Switch 2, en perspectiva y con la sombra proyectada resuelta como mancha de rayado) y **personaje de memoria** (Squirtle). Del garabato libre salieron extras: un dragón serpenteante, una casita, una flor en maceta y un ojo con ceja.
+- **Entregable:** Tres hojas → `trofeos/003-2026-11-24-linea-base-a.jpg` (calentamiento + extras), `-b` (mano + cara), `-c` (objeto + personaje).
+- **Cómo se sintió:** —
+- **Notas para la próxima:** Datos de la línea base, sin juicio: la sombra del dock es una **mancha oscura puesta por instinto** (es justo el tema de la Fase 1), la mano tiene línea con peso variable, y el dragón muestra soltura con la curva. Se abre la Fase 1: lo natural es `B-10` (manchas negras a lo Mignola) o `B-11` (siluetas). Pendiente de este carril: `B-02`, calibración de materiales.
+
+---
 
 ### Sesión 002 — 2026-09-09 — Deseo vs. necesidad
 - **Tamaño:** M
