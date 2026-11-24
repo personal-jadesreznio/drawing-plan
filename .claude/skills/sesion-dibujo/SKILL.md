@@ -100,6 +100,7 @@ Reglas duras:
 - Máximo 1 video, idealmente menos de 15 min. Si es largo, dar el timestamp.
 - Nunca un ejercicio abstracto: si toca practicar cilindros, se practican dibujando algo del mundo de Jad.
 - Priorizar silueta, manchas negras y diseño por sobre el renderizado.
+- **Logística explícita en cada ítem**, calentamiento incluido: herramienta, hoja (nueva o la misma), zona (mitad de arriba, un cuarto, página entera), tamaño aproximado, y si va encima de algo o aparte. Ejemplo: "Hoja nueva del A5. Mano en la mitad de arriba, tamaño real; cara en el cuarto de abajo a la izquierda, del tamaño de una moneda." Jad no tiene que decidir nada de esto.
 
 ## Paso 7 — Cerrar
 

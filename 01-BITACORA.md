@@ -81,8 +81,8 @@ Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la e
 - **Concepto trabajado:** Línea base: dibujar sin instrucción y sin borrar (cara, mano, objeto, personaje de memoria). Sharbo X como portaminas, sketchbook A5
 - **Hecho:** Calentamiento de líneas largas y elipses superpuestas. Después los cuatro de la consigna: **cara** (un chico de estilo manga, encajado en la punta del dedo de la mano), **mano** (la propia, abierta y con los dedos separados), **objeto** (el dock de la Switch 2, en perspectiva y con la sombra proyectada resuelta como mancha de rayado) y **personaje de memoria** (Squirtle). Del garabato libre salieron extras: un dragón serpenteante, una casita, una flor en maceta y un ojo con ceja.
 - **Entregable:** Tres hojas → `trofeos/003-2026-11-24-linea-base-a.jpg` (calentamiento + extras), `-b` (mano + cara), `-c` (objeto + personaje).
-- **Cómo se sintió:** —
-- **Notas para la próxima:** Datos de la línea base, sin juicio: la sombra del dock es una **mancha oscura puesta por instinto** (es justo el tema de la Fase 1), la mano tiene línea con peso variable, y el dragón muestra soltura con la curva. Se abre la Fase 1: lo natural es `B-10` (manchas negras a lo Mignola) o `B-11` (siluetas). Pendiente de este carril: `B-02`, calibración de materiales.
+- **Cómo se sintió:** Apurado, con muy poco tiempo. Le quedaron ganas de hacer más.
+- **Notas para la próxima:** Jad quiere una sesión **más larga** la próxima (M o L). Pidió **consignas más explícitas**: decirle en qué hoja y en qué parte va cada ítem, si va encima de otro o aparte, y de qué tamaño. Quedó como regla en `00-CONTEXTO.md` §6. Datos de la línea base, sin juicio: la sombra del dock es una **mancha oscura puesta por instinto** (es justo el tema de la Fase 1), la mano tiene línea con peso variable, y el dragón muestra soltura con la curva. Se abre la Fase 1: lo natural es `B-10` (manchas negras a lo Mignola) o `B-11` (siluetas). Pendiente de este carril: `B-02`, calibración de materiales.
 
 ---
 
