@@ -2,7 +2,7 @@
 
 > Documento vivo. Todo lo que se decide sobre la historia vive acá.
 > Se llena de a poco, por conversación. **Nada tiene que estar bien la primera vez.**
-> Última actualización: 2026-09-05
+> Última actualización: 2026-11-24
 
 ---
 
@@ -23,9 +23,17 @@ Marcas:
 - **Premisa en una línea:** 🤔 Dos hermanos suben una torre para matar al dios que les arruinó la vida, sin saber que cada uno que lo mató antes ocupó su lugar y enloqueció.
 - **El gancho** (¿por qué alguien seguiría leyendo después de la página 1?): 🤔 Los restos de los equipos anteriores. Todos llegaron tan lejos como vos — entonces, ¿por qué el dios sigue vivo y sigue siendo cruel?
 - **El patrón** (esto está resuelto): *a los dos hermanos los arruina su mejor cualidad, ejercida por amor.* La confianza del chico mata a su escuadrón. La prudencia del grande —su mayor virtud— es exactamente lo que lo hace llegar tarde y poner en riesgo al único que le importa.
-- **De qué se trata en realidad** (el tema, no la trama): _[lo escribe Jad]_
-  > El patrón es el **diagnóstico**; el tema es el **veredicto**. El mismo esqueleto sirve para historias distintas: que querer nunca alcanza para proteger y eso es una tragedia sin salida; que amar es necesariamente poner en peligro y vale la pena igual; que el que quiere salvar termina necesitando que lo salven; que no hay forma buena de querer, solo formas.
-  > **Los dos finales son dos veredictos distintos.** Al elegir el final, el tema queda contestado se escriba o no. Mejor escribirlo antes. Una frase fea alcanza: *"esta historia dice que…"*.
+- **De qué se trata en realidad** (el tema, no la trama): _[lo escribe Jad — reducido a dos candidatos]_
+  > El patrón es el **diagnóstico**; el tema es el **veredicto**. Jad descartó dos de las cuatro opciones y se quedó con estas dos, que no compiten: **son la misma afirmación vista desde cada hermano.**
+  > - *Amar a alguien es ponerlo en peligro, y hay que hacerlo igual.* ← el grande
+  > - *El que sale a salvar a todos termina necesitando que lo salven.* ← el chico, y es la frase que aportó Jad: querer salvar a todos puede terminar en que necesites salvarte de vos mismo.
+  >
+  > Tres borradores sobre la mesa, para elegir uno, mezclarlos o tirarlos:
+  > 1. *Esta historia dice que querer a alguien de verdad es aceptar perderlo.*
+  > 2. *Esta historia dice que el que sale a salvar a todos termina necesitando que lo salven, y el que sale a salvar a uno solo termina salvando a todos.*
+  > 3. *Esta historia dice que amar a alguien es ponerlo en peligro, y que igual hay que hacerlo.*
+  >
+  > La 2 es la que más se parece a lo construido: describe a los dos hermanos a la vez y explica por qué el trono lo acepta a él. **Con el Final 1 ya elegido, el veredicto está medio contestado de hecho — falta escribirlo.**
 - **Tono:** fantasía con poderes. No superhéroes. Registro emocional grande, con espacio para rareza y folklore.
 - **Extensión:** ✅ **obra larga, dividida en arcos.** La unidad de trabajo para producir es el **capítulo**; el arco es la unidad de la historia.
 
@@ -359,10 +367,20 @@ Consecuencia: **los restos que el grande va encontrando pueden incluir a gente d
 
 | | Qué pasa | Qué deja abierto |
 |---|---|---|
-| **Final 1** | El grande acepta el lugar del dios como verdadero reemplazo. No enloquece, cumple su deber con gusto y deja ir a los demás. | Restaura el sistema que causó la tragedia. **Cumple la misión y rompe la promesa: nunca vuelve.** |
-| **Final 2** | Aceptado como dios legítimo, decide igual que es demasiado poder para un humano. Como no es un intruso, puede irse — y se va, con los demás, dejando el trono vacío. | Vacía el trono. **Cumple la promesa: vuelve.** Obliga a responder qué pasa con un mundo sin dios. |
+| **Final 1** ✅ **ELEGIDO** | El grande acepta el lugar del dios como verdadero reemplazo y **sucesor puro**. No enloquece, cumple su deber con gusto y deja ir a los demás. | **Cumple la misión y rompe la promesa: nunca vuelve.** |
+| ~~Final 2~~ ❌ | Aceptado como dios legítimo, decide igual que es demasiado poder para un humano y se va, dejando el trono vacío. | Descartado. |
 
-> **La pregunta real del final ✅:** no es "restaurar o vaciar el trono". Es **si vuelve con su hermano o no**. Los cuatro hilos de la sección 2 apuntan al Final 2, pero es decisión de Jad.
+### Lo que arrastra el Final 1 ✅
+
+**Invierte su defecto por completo.** El grande empieza con *"todos son prescindibles menos uno"* y termina **sacrificando al uno por todos**: se queda encerrado para siempre a cambio de liberar al resto. Su arco no cierra: se da vuelta entero.
+
+**Elige justo la maldición.** Lo que enloqueció a todos los dioses anteriores fue la soledad y el poder. El grande acepta exactamente eso, a sabiendas. Que no enloquezca es la afirmación de la historia: aguanta porque no lo tomó para sí.
+
+**Y cumple la promesa de la peor manera.** Los poderes del dios no funcionan dentro de la torre — funcionan **afuera**, que es donde vive su hermano. Nunca vuelve a casa, pero está en todos lados donde su hermano esté. No puede abrazarlo nunca más y puede cuidarlo para siempre. **El hermano mayor protector se convierte, literalmente, en el dios del mundo donde vive su hermano.**
+
+**Lo que cuesta:** el chico se queda solo. Mató a su padre con sus propias manos, el hermano mayor es un ángel y el grande no baja. Sale de la torre habiendo ganado y habiendo perdido todo.
+
+> ⚠️ **Pregunta que abre este final:** cuando el grande se vuelve dios legítimo y "deja ir a los demás", **¿qué pasa con los ángeles?** Uno de ellos es el hermano mayor. El chico podría perder al grande y recuperar al mayor — un canje. _[por decidir]_
 
 ### Huecos marcados
 
@@ -429,6 +447,7 @@ Consecuencia: **los restos que el grande va encontrando pueden incluir a gente d
 - **El grande le falla a su hermano por ser bueno en lo que es bueno.**
 - **No se explora daño en el pasado de los hermanos**, solo lo unido del vínculo.
 - **La obra es larga y se divide en arcos.**
+- **Final 1:** el grande se queda en el trono como dios legítimo y sucesor puro. No vuelve.
 - **Las expediciones son sucesivas**, no simultáneas: primero el equipo del grande, después el del chico.
 - **El mentor se sacrifica para salvar al resto**, y eso fuerza al grande a hacerse cargo del pequeño.
 - **El mentor y el pequeño van en el equipo del grande.**

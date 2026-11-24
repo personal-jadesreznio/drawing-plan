@@ -44,7 +44,7 @@ Del **REGISTRO DE SESIONES** de `01-BITACORA.md` sacar cuatro cosas antes de pro
 |---|---|
 | Qué conceptos aparecen y cuántas veces | Detectar el que se está sobre-practicando por comodidad |
 | Qué bloque del backlog no se tocó nunca | Suele ser lo que más falta |
-| Proporción de sesiones D / W / DW | Si hace 4+ sesiones que no hay carril W, la historia se está quedando atrás |
+| Proporción de sesiones D / W / DW | **Va en los dos sentidos.** Si hace 4+ sesiones que no hay carril W, la historia se queda atrás. Si hace 2+ sesiones que no hay carril D —o si `trofeos/` sigue vacía—, el dibujo no arrancó y **ese es el carril que el proyecto necesita**: el carril W avanza solo porque es cómodo |
 | Proporción XS / M / L | Solo como dato para calibrar el tamaño, **nunca como reproche** |
 
 **c) Cómo va el cómic.** Fase actual, entregable de fase pendiente, y qué secciones de `02-BIBLIA.md` siguen en `_[vacío]_`. Si el carril de escritura está estancado, un `DW` con 10 minutos de W lo destraba sin que se sienta una sesión de escritura.
@@ -61,7 +61,11 @@ Comparar la fecha del Paso 1 con la última sesión:
 |---|---|
 | 0–2 | Continuidad directa |
 | 3–13 | 5 min de repaso del último concepto antes de avanzar |
-| 14+ | **Sesión de reingreso XS**, sin material nuevo. Redibujar algo que ya salió bien — buen momento para abrir `trofeos/` y elegir uno. Recién la siguiente avanza. |
+| 14+ | **Sesión de reingreso XS**, sin material nuevo. Recién la siguiente avanza. Dos casos según `trofeos/`: |
+
+**Reingreso con trofeos:** redibujar algo que ya salió bien. Abrir `trofeos/` y elegir uno.
+
+**Reingreso con `trofeos/` vacía:** no hay nada que redibujar — es la **primera sesión de dibujo**. No convertirla en un reingreso vacío ni en una sesión de escritura: proponer la más chica del carril de dibujo que exista en el backlog, en versión XS, con un entregable fotografiable. No hace falta que sea impecable; hace falta que exista la primera foto en `trofeos/`.
 
 No comentar el hueco como reproche. Solo ajustar el contenido.
 
@@ -80,6 +84,8 @@ Criterios, en orden:
 5. Que use material que Jad efectivamente tenga.
 
 Si la energía está baja, ir directo a las sesiones `B-90`+ (días malos).
+
+**Si `trofeos/` está vacía, el carril D gana el desempate.** Mientras no exista ni una foto de entregable, una sesión de dibujo vale más que una de escritura, aunque el backlog W esté más maduro. Marcarlo una vez, sin dramatismo, y ofrecer igual la alternativa W si Jad no puede dibujar hoy.
 
 ## Paso 6 — Entregar la sesión
 

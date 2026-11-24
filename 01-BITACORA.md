@@ -8,26 +8,28 @@
 ## ESTADO ACTUAL
 
 - **Fase:** 0 — Setup y calibración
-- **Sesiones completadas:** 1
-- **Última sesión:** 2026-09-05 (`W-01`, tipo W, tamaño M)
-- **Concepto más reciente:** Volcado de fragmentos y estructura de trama; los cuatro hilos del registro emocional
-- **Próximo entregable de fase:** Hoja de "dónde estoy hoy" (línea base) — sigue pendiente, es carril de dibujo
-- **Biblia:** con contenido real. Trama base, mito de origen, ciclo, clímax y sistema de poderes volcados. Falta el tema, los nombres y los detalles de mundo
+- **Sesiones completadas:** 2 — las dos del carril W. **El carril de dibujo todavía no arrancó.**
+- **Última sesión:** 2026-09-09 (`W-03`, tipo W, tamaño M)
+- **Concepto más reciente:** Deseo vs. necesidad; arcos y defectos de los dos hermanos
+- **Próximo entregable de fase:** Hoja de "dónde estoy hoy" (`B-01`, línea base). Es carril de dibujo y es lo único que falta para cerrar la Fase 0
+- **Biblia:** 443 líneas, secciones 1 a 9 con contenido. Trama, mito de origen, ciclo, clímax coreografiado, sistema de poderes y arcos de los dos protagonistas. Falta el tema, los nombres, los detalles de mundo y el mapa de capítulos
+- **Trofeos:** `trofeos/` vacía. Todavía no hay ningún entregable de dibujo
 - **Materiales:** completos para Fase 1. Papel (A5 + A4 de 120 g), brush pen, regla recta y Copic 100 Black ✅ — actualizado 2026-09-03
 - **Pendientes abiertos:**
   - [ ] Probar si el brush pen al agua se corre bajo los Copics, y si los 120 g aguantan el marcador (va dentro de `B-02`)
   - [ ] _(opcional)_ Marker paper, solo si `B-02` confirma que el A4 no rinde
-- **Decisiones de historia abiertas** (no urgentes, ver `02-BIBLIA.md`):
+- **Decisiones de historia abiertas** (ninguna bloquea el carril de dibujo, ver `02-BIBLIA.md`):
   - [ ] **¿Cómo pasa alguien a los ángeles, y qué hacen durante el clímax?** ⚠️ el más urgente
+  - [ ] **El tema.** Jad descartó dos de cuatro opciones y se quedó con dos; falta elegir y redactarlo. **Lo contesta Jad**
+  - [ ] **Qué necesita** el grande y qué necesita el chico — los dos últimos campos de arco
+  - [ ] **El incidente 3 del chico:** qué le hace perder el sentido. A pensar entre los dos
+  - [ ] **La pureza del motivo:** si el grande se cura al tomar el trono, ¿lo sabía? (A: no lo sabe / B: lo sabe y lo hace igual / C: no se estaba muriendo)
+  - [ ] ¿El grande es escudero? Si es del Ocaso, su equipo necesita un candidato propio que todavía no existe
   - [ ] ¿Quién narra?
-  - [ ] ¿El hermano del medio es escudero? Si es del Ocaso, su equipo necesita un candidato propio que todavía no existe
-  - [ ] **La pureza del motivo:** si el medio se cura al tomar el trono, ¿lo sabía? (A: no lo sabe / B: lo sabe y lo hace igual / C: no se estaba muriendo)
-  - [ ] Diseñar el combo del traidor principal (artefacto + grimorio)
-  - [ ] Definir cómo funcionan los grimorios
-  - [ ] Confirmar o descartar la lectura temática de la Iglesia (pureza de origen vs. pureza construida)
-  - [ ] ¿Quién sabe del ciclo dentro de las organizaciones?
-  - [ ] Final 1 o Final 2
-  - [ ] De qué se trata en realidad la historia (el tema) — la contesta Jad, `W-03`
+  - [ ] ¿Quién sabe del ciclo dentro de las organizaciones? (incluye confirmar la lectura temática de la Iglesia)
+  - [ ] Diseñar el combo del traidor principal y definir cómo funcionan los grimorios
+  - [ ] Cuánto tiempo pasó entre la expedición del hermano mayor y la partida del grande
+- **Decisiones de historia cerradas en la 002:** identidad del dios actual, cómo se entera el grande (los diarios), edades, arcos cruzados y sus ritmos, el defecto del grande, el estallido, el arma doble, y **el final elegido: Final 1** (el grande se queda en el trono como dios legítimo)
 
 ---
 
@@ -54,9 +56,9 @@ Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la e
 **Carril de escritura (W) — corre en paralelo desde el día uno**
 - ~~`W-01` **Volcar fragmentos.**~~ ✅ hecho en la sesión 001.
 - `W-02` **El sistema de poderes.** La regla y, sobre todo, **el costo**. _[M]_ — ⚠️ en buena parte ya resuelto en la 001 (trono + artefactos). Reformular hacia los huecos: quién sabe del ciclo, y los límites de la arcana.
-- `W-03` **Protagonista: deseo vs. necesidad.** Preguntas dirigidas. Sale la herida y la contradicción. _[M]_
+- `W-03` **Protagonista: deseo vs. necesidad.** _[M]_ — ⚠️ hecho a medias en la sesión 002: *deseo*, herida, defecto y arcos están cerrados para los dos hermanos. **Queda solo el campo *qué necesita*.** Retomar corto.
 - `W-04` **Nombres.** Definir la lógica del mundo primero, después los nombres salen solos. _[XS]_
-- `W-05` **Antagonista espejo.** En qué tiene razón. _[M]_
+- `W-05` **Antagonista espejo.** En qué tiene razón. _[M]_ — apunta a los dos traidores y al gran candidato.
 - `W-06` **Estructura: kishōtenketsu vs. tres actos.** Cuál le sirve a esta historia. _[M]_
 - `W-07` **Cómo se cierra un capítulo.** La última página y el gancho. _[M]_
 - `W-08` **Misterio sin confusión.** Tabla de sembrado y cosecha. _[M]_
@@ -66,11 +68,23 @@ Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la e
 **Días malos / sin pastilla**
 - `B-90` **Copiar un panel.** Elegir un panel de un manga favorito y copiarlo. Sin teoría. _[XS]_
 - `B-91` **Garabato con Copics.** 15 min, sin objetivo, solo manchas y formas. _[XS]_
-- `B-92` **Redibujar un trofeo.** Rehacer un dibujo viejo que salió bien. _[XS]_
+- `B-92` **Redibujar un trofeo.** Rehacer un dibujo viejo que salió bien. _[XS]_ — requiere que `trofeos/` tenga algo.
 
 ---
 
 ## REGISTRO DE SESIONES
+
+### Sesión 002 — 2026-09-09 — Deseo vs. necesidad
+- **Tamaño:** M
+- **Tipo:** W (solo escritura)
+- **Días desde la anterior:** 4
+- **Concepto trabajado:** Deseo vs. necesidad; arcos, defectos y ritmos de cambio de los dos protagonistas
+- **Hecho:** Se trabajaron los dos hermanos a fondo. **El chico:** quiere ser héroe, encontrar a su padre y a su hermano, y que lo reconozcan como el elegido — y el motor de su tragedia es que **todo lo que quiere lo consigue y cada cosa lo destruye**. La emboscada pasa al primer tercio, precedida por una racha donde todo le sale bien de casualidad y él no lo ve. Tres incidentes lo invierten: la emboscada, matar a su padre convertido en ángel, y un tercero por definir. **El grande:** se fue para que el chico no tuviera que ir, dispuesto a morir, y la promesa de volver era mentira. Su cinismo es estrategia, no amargura, y su defecto es ver a todos como prescindibles menos a su hermano. Su prudencia —su mayor virtud— es exactamente lo que lo hace llegar tarde. Su estallido es la muerte del mentor, con arma doble y power-up. También se fijaron las edades (23 / 18 / 16), la relación entre los hermanos, las dos promesas cruzadas como columna vertebral del final, y la regla de que tomar el trono libera el alma del arma.
+- **Entregable:** `02-BIBLIA.md` ampliada de 208 a 443 líneas. Sesión W: el trofeo es el commit, no una foto.
+- **Cómo se sintió:** —
+- **Notas para la próxima:** Jad eligió el **Final 1** y descartó dos de las cuatro opciones de tema, quedándose con dos. Falta que redacte el tema y los dos campos *qué necesita*; son cortos y cierran el bloque de personajes. Se decidió además que la obra es larga y por arcos, y se ajustó la Fase 6 del roadmap en consecuencia. **El carril de dibujo sigue sin arrancar: dos sesiones, las dos de escritura.**
+
+---
 
 ### Sesión 001 — 2026-09-05 — Volcar los fragmentos
 - **Tamaño:** M

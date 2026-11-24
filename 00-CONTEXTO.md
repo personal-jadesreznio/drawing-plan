@@ -2,7 +2,7 @@
 
 > Archivo de reglas y preferencias. Es la fuente de verdad sobre cómo se diseñan las sesiones.
 > Cambia poco. Si algo acá deja de ser cierto, se edita.
-> Última actualización: 2026-09-09
+> Última actualización: 2026-11-24
 
 ---
 
@@ -130,7 +130,7 @@ El tipo es independiente del tamaño (XS/M/L). Una sesión W en XS son 10 minuto
 |---|---|
 | 0–2 días | Directo, continuidad total. |
 | 3–13 días | Repaso rápido de 5 min del último concepto antes de seguir. |
-| 14+ días | **Sesión de reingreso XS**, sin material nuevo. Solo redibujar algo que ya salió bien. Recién la siguiente sesión avanza. |
+| 14+ días | **Sesión de reingreso XS**, sin material nuevo. Redibujar algo que ya salió bien. Si `trofeos/` está vacía todavía no hay nada que redibujar: va la sesión de dibujo más chica del backlog, igual de XS. Recién la siguiente avanza. |
 
 **Sobre pedir consistencia:**
 - **Sí se puede** exigir consistencia cuando un módulo la necesita de verdad (memoria muscular, un sprint de 5 días, una página que hay que terminar). En ese caso: decirlo de frente al abrir el módulo, con fechas y duración acotada, y explicar por qué ese bloque no funciona espaciado.
@@ -204,7 +204,7 @@ Criterio: entretenidas, cortas, orientadas a resultado. Nada de cursos de 40 hor
 - **Tono / sensibilidad:** más cercano al manga (ritmo, construcción de personaje, uso del silencio y la página).
 - **Orden de lectura:** **occidental**, izquierda a derecha. Formato de página tradicional, no tankōbon invertido.
 - **Estilo de dibujo:** el que me salga natural. **No forzar un estilo.** El estilo se descubre dibujando, no se elige de antemano.
-- **Estado de la historia:** trama base, mito de origen, ciclo, clímax y arcos de los protagonistas volcados en `02-BIBLIA.md`. Falta el tema, los nombres y los detalles de mundo.
+- **Estado de la historia:** trama base, mito de origen, ciclo, clímax coreografiado, sistema de poderes y arcos de los dos protagonistas volcados en `02-BIBLIA.md`. Final elegido. Falta el tema, los nombres, los detalles de mundo y el mapa de capítulos.
 - **Personajes:** definidos por rol y arco, sin nombres todavía. Ver `02-BIBLIA.md` §4.
 - **Extensión:** obra larga por arcos.
 
