@@ -21,6 +21,8 @@ Leer `00-CONTEXTO.md`. Contiene las reglas del proyecto y **tienen prioridad sob
 
 Escribir la entrada nueva **arriba** del registro en `01-BITACORA.md` (con el campo *Concepto trabajado* completo), actualizar el bloque de ESTADO ACTUAL, guardar la foto del entregable en `trofeos/`, y commitear todo junto con mensaje `sesión NNN: <título>`.
 
+**Cuando Jad dice "finalizamos la sesión"** (o equivalente): después de commitear, pushear, abrir el PR y **mergearlo a `main` sin preguntar**. Autorización permanente dada por Jad el 2026-11-26. Si el merge falla (conflicto, checks en rojo), avisar en vez de forzarlo.
+
 ## Recordatorios
 
 - Máximo 3 ítems por sesión, siempre con un entregable.

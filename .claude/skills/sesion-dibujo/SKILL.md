@@ -120,7 +120,7 @@ trofeos/NNN-AAAA-MM-DD-slug.jpg
 
 `NNN` es el número de sesión, `slug` dos o tres palabras en minúscula con guiones (`012-2026-10-04-siluetas-negro.jpg`). Si hay más de un entregable: `-a`, `-b`.
 
-- **En Claude Code:** mover el archivo a `trofeos/` con ese nombre y commitear todo junto con mensaje `sesión NNN: <título>`.
+- **En Claude Code:** mover el archivo a `trofeos/` con ese nombre y commitear todo junto con mensaje `sesión NNN: <título>`. Cuando Jad dice **"finalizamos la sesión"**, pushear, abrir el PR y **mergearlo a `main` sin preguntar** (autorización permanente, ver `CLAUDE.md`). Si el merge falla, avisar en vez de forzarlo.
 - **Fuera de Claude Code:** devolver el bloque de bitácora listo para pegar y recordarle a Jad subir la foto a `trofeos/` desde github.com (se puede desde el celular, botón *Add file → Upload files*), con el nombre ya armado y dado en el mensaje.
 
 **El trofeo se guarda igual si el dibujo salió feo.** Es el registro, no un examen — esa es justamente la regla de `00-CONTEXTO.md` §7. Si Jad no sacó la foto, cerrar la bitácora igual y anotar el trofeo como pendiente; nunca dejar la sesión sin registrar por una foto faltante.
