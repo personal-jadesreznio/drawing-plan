@@ -42,7 +42,7 @@ Marcas:
 > Zona de volcado. Sin orden, sin juicio. Imágenes, escenas, líneas de diálogo, sensaciones.
 > Todo lo que ya tenías en la cabeza va acá antes de organizarse.
 
-**Imágenes y momentos (sesión 001)**
+**Imágenes y momentos (sesión H01)**
 
 - **El panel de la espada.** Una espada atraviesa al dios. Sangre. Se lee como si lo hubiera hecho el protagonista vengativo — y recién al alejarse el zoom se ve que fue el hermano. El momento más fuerte de la historia, pensado como imagen y no como diálogo.
 - **"Lo hice por vos."** La respuesta del hermano al reclamo de que le robó la venganza. No lo hizo por odio ni por poder.

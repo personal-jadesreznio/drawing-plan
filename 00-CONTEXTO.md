@@ -264,7 +264,7 @@ Frase gatillo: **"dame una sesión"**. Claude entonces:
 3. Entrega la sesión: máximo 3 ítems, un entregable.
 4. Al cierre, devuelve el bloque de bitácora listo para pegar.
 
-**Carpeta de trofeos:** `trofeos/` en el repo, con el nombre `NNN-AAAA-MM-DD-slug.jpg`. Foto de cada entregable, sin excepción, incluso los feos. Es el único registro de progreso que importa.
+**Carpeta de trofeos:** `trofeos/` en el repo, con el nombre `D00-AAAA-MM-DD-slug.jpg` (número de sesión de dibujo; ver numeración en `01-BITACORA.md`). Foto de cada entregable, sin excepción, incluso los feos. Es el único registro de progreso que importa.
 
 Sacar la foto con el celular y subirla desde github.com (*Add file → Upload files*); en Claude Code la guarda y commitea Claude. El álbum de Fotos del celular sirve como paso intermedio, pero **el repo es el registro**: es lo único que Claude puede leer en la sesión siguiente.
 

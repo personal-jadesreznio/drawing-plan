@@ -115,12 +115,12 @@ Entrada nueva **arriba** del registro, con el formato de la plantilla del final 
 La foto del entregable va a `trofeos/`, con este nombre:
 
 ```
-trofeos/NNN-AAAA-MM-DD-slug.jpg
+trofeos/D00-AAAA-MM-DD-slug.jpg
 ```
 
-`NNN` es el número de sesión, `slug` dos o tres palabras en minúscula con guiones (`012-2026-10-04-siluetas-negro.jpg`). Si hay más de un entregable: `-a`, `-b`.
+`D00` es el número de sesión de dibujo y `slug` son dos o tres palabras en minúscula con guiones (`D12-2026-10-04-siluetas-negro.jpg`). **Numeración:** dos contadores separados, **D** para dibujo (las DW también) y **H** para solo historia. Para sacar el número siguiente, buscar el último D o H en el registro. Si hay más de un entregable: `-a`, `-b`.
 
-- **En Claude Code:** mover el archivo a `trofeos/` con ese nombre y commitear todo junto con mensaje `sesión NNN: <título>`. Cuando Jad dice **"finalizamos la sesión"**, pushear, abrir el PR y **mergearlo a `main` sin preguntar** (autorización permanente, ver `CLAUDE.md`). Si el merge falla, avisar en vez de forzarlo.
+- **En Claude Code:** mover el archivo a `trofeos/` con ese nombre y commitear todo junto con mensaje `sesión D00: <título>` (o `H00`). Cuando Jad dice **"finalizamos la sesión"**, pushear, abrir el PR y **mergearlo a `main` sin preguntar** (autorización permanente, ver `CLAUDE.md`). Si el merge falla, avisar en vez de forzarlo.
 - **Fuera de Claude Code:** devolver el bloque de bitácora listo para pegar y recordarle a Jad subir la foto a `trofeos/` desde github.com (se puede desde el celular, botón *Add file → Upload files*), con el nombre ya armado y dado en el mensaje.
 
 **El trofeo se guarda igual si el dibujo salió feo.** Es el registro, no un examen — esa es justamente la regla de `00-CONTEXTO.md` §7. Si Jad no sacó la foto, cerrar la bitácora igual y anotar el trofeo como pendiente; nunca dejar la sesión sin registrar por una foto faltante.

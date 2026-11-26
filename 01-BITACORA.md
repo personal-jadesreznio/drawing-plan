@@ -7,15 +7,17 @@
 
 ## ESTADO ACTUAL
 
-- **Fase:** 1 — Silueta y manchas negras (la Fase 0 cerró con la línea base de la sesión 003)
-- **Sesiones completadas:** 3 — dos W y una D. **El carril de dibujo arrancó.**
+- **Fase:** 1 — Silueta y manchas negras (la Fase 0 cerró con la línea base de la sesión D01)
+- **Sesiones completadas:** 3 — historia: H01, H02 · dibujo: D01. **El carril de dibujo arrancó.**
+- **Numeración:** dos contadores separados desde 2026-11-26. **D** = dibujo (las DW también cuentan como D, porque dejan foto), **H** = historia. Se usa H y no W para no confundir con los códigos `W-xx` del backlog. La sesión de setup no lleva número
 - **Última sesión:** 2026-11-24 (`B-01`, tipo D, tamaño XS)
 - **Concepto más reciente:** Línea base: dibujar sin instrucción y sin borrar
 - **Próximo entregable de fase:** Un dibujo resuelto solo en blanco y negro + una tira de 4 viñetas. Para arrancar, el bloque gráfico: `B-10` o `B-11`
 - **Biblia:** 443 líneas, secciones 1 a 9 con contenido. Trama, mito de origen, ciclo, clímax coreografiado, sistema de poderes y arcos de los dos protagonistas. Falta el tema, los nombres, los detalles de mundo y el mapa de capítulos
-- **Trofeos:** 3 fotos, todas de la línea base (`003-…-a/b/c`). Ya hay algo para `B-92` y para los reingresos
+- **Trofeos:** 3 fotos, todas de la línea base (`D01-…-a/b/c`). Ya hay algo para `B-92` y para los reingresos
 - **Materiales:** completos para Fase 1. Papel (A5 + A4 de 120 g), brush pen, regla recta y Copic 100 Black ✅ — actualizado 2026-09-03
 - **Pendientes abiertos:**
+  - [ ] **Retomar D02 — Siluetas del elenco** (`B-11` corta, 20 min). Quedó armada el 2026-11-26 y se suspendió antes de empezar. Calentamiento con brush pen en el cuarto de arriba; en la mitad del medio, siluetas de 6 cm de el grande, el chico y un ángel; en el cuarto de abajo, la que se lea peor a 9 cm, exagerando una sola cosa. Brush pen Da Vinci (o Copic 100 Black) con cartón debajo
   - [ ] Probar si el brush pen al agua se corre bajo los Copics, y si los 120 g aguantan el marcador (va dentro de `B-02`)
   - [ ] _(opcional)_ Marker paper, solo si `B-02` confirma que el A4 no rinde
 - **Decisiones de historia abiertas** (ninguna bloquea el carril de dibujo, ver `02-BIBLIA.md`):
@@ -29,7 +31,7 @@
   - [ ] ¿Quién sabe del ciclo dentro de las organizaciones? (incluye confirmar la lectura temática de la Iglesia)
   - [ ] Diseñar el combo del traidor principal y definir cómo funcionan los grimorios
   - [ ] Cuánto tiempo pasó entre la expedición del hermano mayor y la partida del grande
-- **Decisiones de historia cerradas en la 002:** identidad del dios actual, cómo se entera el grande (los diarios), edades, arcos cruzados y sus ritmos, el defecto del grande, el estallido, el arma doble, y **el final elegido: Final 1** (el grande se queda en el trono como dios legítimo)
+- **Decisiones de historia cerradas en la H02:** identidad del dios actual, cómo se entera el grande (los diarios), edades, arcos cruzados y sus ritmos, el defecto del grande, el estallido, el arma doble, y **el final elegido: Final 1** (el grande se queda en el trono como dios legítimo)
 
 ---
 
@@ -38,7 +40,7 @@
 Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la energía del día y lo que venga antes.
 
 **Fase 0**
-- ~~`B-01` **Línea base.**~~ ✅ hecho en la sesión 003.
+- ~~`B-01` **Línea base.**~~ ✅ hecho en la sesión D01.
 - `B-02` **Calibración de materiales.** Probar cada herramienta 5 min: portaminas, brush pen, Copics, iPad. Una hoja de muestras. Incluir el test de traspaso: brush pen al agua debajo de Copic, y Copic sobre el A4 de 120 g. Decidir cuál es el material por defecto. _[M]_
 
 **Fase 1 — bloque gráfico (nuevo, va primero)**
@@ -54,9 +56,9 @@ Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la e
 - `B-07` **Primera tira de 4 viñetas.** Chiste simple, stick figures permitidos. _[M]_
 
 **Carril de escritura (W) — corre en paralelo desde el día uno**
-- ~~`W-01` **Volcar fragmentos.**~~ ✅ hecho en la sesión 001.
-- `W-02` **El sistema de poderes.** La regla y, sobre todo, **el costo**. _[M]_ — ⚠️ en buena parte ya resuelto en la 001 (trono + artefactos). Reformular hacia los huecos: quién sabe del ciclo, y los límites de la arcana.
-- `W-03` **Protagonista: deseo vs. necesidad.** _[M]_ — ⚠️ hecho a medias en la sesión 002: *deseo*, herida, defecto y arcos están cerrados para los dos hermanos. **Queda solo el campo *qué necesita*.** Retomar corto.
+- ~~`W-01` **Volcar fragmentos.**~~ ✅ hecho en la sesión H01.
+- `W-02` **El sistema de poderes.** La regla y, sobre todo, **el costo**. _[M]_ — ⚠️ en buena parte ya resuelto en la H01 (trono + artefactos). Reformular hacia los huecos: quién sabe del ciclo, y los límites de la arcana.
+- `W-03` **Protagonista: deseo vs. necesidad.** _[M]_ — ⚠️ hecho a medias en la sesión H02: *deseo*, herida, defecto y arcos están cerrados para los dos hermanos. **Queda solo el campo *qué necesita*.** Retomar corto.
 - `W-04` **Nombres.** Definir la lógica del mundo primero, después los nombres salen solos. _[XS]_
 - `W-05` **Antagonista espejo.** En qué tiene razón. _[M]_ — apunta a los dos traidores y al gran candidato.
 - `W-06` **Estructura: kishōtenketsu vs. tres actos.** Cuál le sirve a esta historia. _[M]_
@@ -74,19 +76,19 @@ Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la e
 
 ## REGISTRO DE SESIONES
 
-### Sesión 003 — 2026-11-24 — Línea base
+### Sesión D01 — 2026-11-24 — Línea base
 - **Tamaño:** XS (20 min)
 - **Tipo:** D (solo dibujo)
 - **Días desde la anterior:** 76 → reingreso XS. Primera sesión de dibujo, así que no había trofeo para redibujar y se hizo `B-01`
 - **Concepto trabajado:** Línea base: dibujar sin instrucción y sin borrar (cara, mano, objeto, personaje de memoria). Sharbo X como portaminas, sketchbook A5
 - **Hecho:** Calentamiento de líneas largas y elipses superpuestas. Después los cuatro de la consigna: **cara** (un chico de estilo manga, encajado en la punta del dedo de la mano), **mano** (la propia, abierta y con los dedos separados), **objeto** (el dock de la Switch 2, en perspectiva y con la sombra proyectada resuelta como mancha de rayado) y **personaje de memoria** (Squirtle). Del garabato libre salieron extras: un dragón serpenteante, una casita, una flor en maceta y un ojo con ceja.
-- **Entregable:** Tres hojas → `trofeos/003-2026-11-24-linea-base-a.jpg` (calentamiento + extras), `-b` (mano + cara), `-c` (objeto + personaje).
+- **Entregable:** Tres hojas → `trofeos/D01-2026-11-24-linea-base-a.jpg` (calentamiento + extras), `-b` (mano + cara), `-c` (objeto + personaje).
 - **Cómo se sintió:** Apurado, con muy poco tiempo. Le quedaron ganas de hacer más.
 - **Notas para la próxima:** Jad quiere una sesión **más larga** la próxima (M o L). Pidió **consignas más explícitas**: decirle en qué hoja y en qué parte va cada ítem, si va encima de otro o aparte, y de qué tamaño. Quedó como regla en `00-CONTEXTO.md` §6. Datos de la línea base, sin juicio: la sombra del dock es una **mancha oscura puesta por instinto** (es justo el tema de la Fase 1), la mano tiene línea con peso variable, y el dragón muestra soltura con la curva. Se abre la Fase 1: lo natural es `B-10` (manchas negras a lo Mignola) o `B-11` (siluetas). Pendiente de este carril: `B-02`, calibración de materiales.
 
 ---
 
-### Sesión 002 — 2026-09-09 — Deseo vs. necesidad
+### Sesión H02 — 2026-09-09 — Deseo vs. necesidad
 - **Tamaño:** M
 - **Tipo:** W (solo escritura)
 - **Días desde la anterior:** 4
@@ -98,7 +100,7 @@ Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la e
 
 ---
 
-### Sesión 001 — 2026-09-05 — Volcar los fragmentos
+### Sesión H01 — 2026-09-05 — Volcar los fragmentos
 - **Tamaño:** M
 - **Tipo:** W (solo escritura)
 - **Días desde la anterior:** 3
@@ -114,7 +116,7 @@ Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la e
 
 ---
 
-### Sesión 000 — 2026-09-02 — Setup
+### Setup — 2026-09-02
 - **Tamaño:** —
 - **Días desde la anterior:** —
 - **Hecho:** Armado del sistema. Creación de `00-CONTEXTO.md` y `01-BITACORA.md`. Definición de formatos de sesión, reglas y roadmap.
@@ -127,7 +129,7 @@ Candidatas. No es un orden fijo — Claude elige según el hueco de tiempo, la e
 <!--
 PLANTILLA — copiar para cada sesión nueva:
 
-### Sesión NNN — AAAA-MM-DD — Título
+### Sesión D00 / H00 — AAAA-MM-DD — Título   (D = dibujo o DW, H = solo historia; cada carril con su contador)
 - **Tamaño:** XS / M / L
 - **Días desde la anterior:** N
 - **Concepto trabajado:**
