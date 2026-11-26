@@ -5,16 +5,16 @@ Foto de cada entregable, **sin excepción, incluso los feos**. Es el único regi
 ## Nombre de archivo
 
 ```
-NNN-AAAA-MM-DD-slug.jpg
+D00-AAAA-MM-DD-slug.jpg
 ```
 
-- `NNN` — número de sesión, con ceros (`007`)
+- `D00` — número de sesión **de dibujo**, con D y dos dígitos (`D07`). Las sesiones de historia (H) no dejan foto: su trofeo es el commit
 - `AAAA-MM-DD` — fecha de la sesión
 - `slug` — dos o tres palabras en minúscula con guiones
 
-Ejemplo: `012-2026-10-04-siluetas-negro.jpg`
+Ejemplo: `D12-2026-10-04-siluetas-negro.jpg`
 
-Si una sesión deja más de un entregable: `012-2026-10-04-siluetas-negro-a.jpg`, `-b`, etc.
+Si una sesión deja más de un entregable: `D12-2026-10-04-siluetas-negro-a.jpg`, `-b`, etc.
 
 ## Cómo se sube
 

@@ -11,7 +11,7 @@ Leer `00-CONTEXTO.md`. Contiene las reglas del proyecto y **tienen prioridad sob
 - `00-CONTEXTO.md` — reglas, materiales, roadmap, referencias. Cambia poco.
 - `01-BITACORA.md` — registro de sesiones y backlog. **Se actualiza cada sesión.**
 - `02-BIBLIA.md` — historia, personajes, mundo. Se actualiza en sesiones de escritura.
-- `trofeos/` — foto de cada entregable, `NNN-AAAA-MM-DD-slug.jpg`. **Se agrega una por sesión.**
+- `trofeos/` — foto de cada entregable, `D00-AAAA-MM-DD-slug.jpg`. **Se agrega una por sesión de dibujo.**
 
 ## Skill
 
@@ -19,7 +19,9 @@ Leer `00-CONTEXTO.md`. Contiene las reglas del proyecto y **tienen prioridad sob
 
 ## Al cerrar una sesión
 
-Escribir la entrada nueva **arriba** del registro en `01-BITACORA.md` (con el campo *Concepto trabajado* completo), actualizar el bloque de ESTADO ACTUAL, guardar la foto del entregable en `trofeos/`, y commitear todo junto con mensaje `sesión NNN: <título>`.
+Escribir la entrada nueva **arriba** del registro en `01-BITACORA.md` (con el campo *Concepto trabajado* completo), actualizar el bloque de ESTADO ACTUAL, guardar la foto del entregable en `trofeos/`, y commitear todo junto con mensaje `sesión D00: <título>` (o `H00`).
+
+**Numeración:** dos contadores separados. **D** para sesiones de dibujo (las DW también, porque dejan foto) y **H** para las de solo historia. Cada uno sigue su propia secuencia: D01, D02… y H01, H02…
 
 **Cuando Jad dice "finalizamos la sesión"** (o equivalente): después de commitear, pushear, abrir el PR y **mergearlo a `main` sin preguntar**. Autorización permanente dada por Jad el 2026-11-26. Si el merge falla (conflicto, checks en rojo), avisar en vez de forzarlo.
 
