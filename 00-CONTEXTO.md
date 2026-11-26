@@ -118,6 +118,7 @@ El tipo es independiente del tamaño (XS/M/L). Una sesión W en XS son 10 minuto
 **Obligatorio:**
 - **Máximo 3 ítems por sesión.** Nunca más. Si hay más ideas, van al backlog.
 - **Siempre hay un entregable visible** al final: un dibujo, una página, un thumbnail. Algo que se pueda fotografiar.
+- **Cada ítem dice dónde y cómo va en el papel:** qué hoja (nueva o la misma), qué parte (mitad de arriba, un cuarto, página entera), tamaño aproximado, si se superpone o va aparte, y con qué herramienta. Sin dejar nada a adivinar: decidir la logística gasta la atención que tiene que ir al dibujo.
 - **Máximo 1 video por sesión**, idealmente de menos de 15 min. Si es largo, indicar el timestamp exacto a mirar.
 - **Nunca un ejercicio abstracto sin motivo.** Si toca practicar cilindros, se practican dibujando robots, espadas o brazos — no cilindros vacíos.
 - **Nunca el mismo ejercicio dos sesiones seguidas** sin cambiar el motivo o el enfoque.
